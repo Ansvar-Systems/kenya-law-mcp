@@ -1,0 +1,505 @@
+{
+  "id": "central-bank-of-kenya-act",
+  "type": "statute",
+  "title": "Central Bank of Kenya Act",
+  "title_en": "Central Bank of Kenya Act",
+  "short_name": "CBK Act",
+  "status": "in_force",
+  "issued_date": "1966-01-01",
+  "in_force_date": "1966-01-01",
+  "url": "https://new.kenyalaw.org/akn/ke/act/1966/15/",
+  "description": "Establishes and regulates the Central Bank of Kenya",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Central Bank of Kenya Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \"authorized bank\" means a specified bank licensed by the Bank under section 33B ; \"authorized bureau\" means a foreign exchange bureau licensed by the Bank under section 33B ; \"authorized dealer\" means an authorized bank , authorized bureau , authorized mortgaged finance company, an authorized money remittance provider or an authorized microfinance bank licensed by the Bank under section 33B ; \"authorized microfinance bank\" means a microfinance bank licensed by the Bank under section 33B ; \"authorized money remittance provider\" means a money remittance operator licensed by the Bank under section 33B to carry out the business of money remittance; \"authorized mortgage finance Company\" means a mortgage finance company licensed by the Bank under section 33B ; \"the Bank\" means the Central Bank of Kenya (or the Banki Kuu ya Kenya) established under section 3 ; \"bank\" means a body corporate or other body of persons, carrying on, whether on their own behalf or as agent for another, banking business within the meaning of the Banking Act ( Cap. 488 ), whether in Kenya or elsewhere; “beneficial owner\" has the meaning assigned to it under the Companies Act ( Cap. 486 ); \"Board\" means the Board of Directors of the Bank appointed under Part IV of this Act; “buy now pay later” means an arrangement whereby the consumer purchases goods or assets, whether or not secured on the goods or assets, and pays later in instalments with or without interest; \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for finance; \"convertible\" , in relation to any exchange, means exchange which is freely negotiable and transferable in international exchange markets at exchange rate margins consistent with the Articles of Agreement of the International Monetary Fund; “credit provider” includes a non-deposit taking credit provider; \"currency\" means the currency of Kenya or foreign currency ; \"currency of Kenya\" means bank notes and coins issued by the Bank under section 22 (1) and any right to receive such bank notes or coins in respect of any credit or balance at a bank or financial institution located within or outside Kenya; \"financial institution\" means a body corporate or other body of persons, carrying on, whether on their own behalf or as agent for another, financial business within the meaning of the Banking Act ( Cap. 488 ), whether in Kenya or elsewhere; \"foreign currency\" means bank notes or coins which are or have at any time been legal tender in any territory outside Kenya and any right to receive such bank notes or coins in respect of any credit or balance at a bank either within or outside Kenya; \"foreign exchange bureau\" means a company incorporated in Kenya whose liability is limited by shares, with the main object of buying and selling foreign currency ; \"foreign exchange business\" — (a) in relation to a specified bank , means— (i) buying, selling, borrowing or lending foreign currency or any other business involving transactions in foreign currency ; (ii) settling payments to or from Kenya or in Kenya between residents and non-residents; (b) in relation to a foreign exchange bureau , means the business of— (i) buying or selling foreign currency ; or (ii) settling payments to or from Kenya as prescribed by the Bank ; (c) in relation to an authorised money remittance provider, means the business of foreign exchange transfers consisting of the acceptance of monies for the purpose of transmitting them to persons resident in Kenya or another country as prescribed by the Bank ; (d) in relation to a microfinance bank , the business of— (i) buying, selling, borrowing or lending foreign currency or any other business involving transactions in foreign currency ; (ii) settling payments to or from Kenya or in Kenya between residents and non-residents; (e) in relation to a specified mortgage finance company, the business of— (i) buying, selling, borrowing or lending foreign currency or any other business involving transactions in foreign currency ; (ii) settling payments to or from Kenya or in Kenya between residents and non-residents; (f) in relation to any other person or body of persons granted a permit by the Bank under section 63(3), means engagement in such limited foreign exchange transactions as the Bank may permit; \"microfinance bank\" means an institution licensed under the Microfinance Act ( Cap. 493C ); \"money remittance operator\" means a company incorporated in Kenya whose main object consists of the acceptance of monies for the purpose of transmitting them to persons resident in Kenya or another country as prescribed by the Bank by regulations; \"mortgage refinance business\" means the business of providing long term financing to primary mortgage lenders for housing finance and any other activity that the Bank may from time to time prescribe; \"mortgage refinance company\" means a non-deposit taking company established under the Companies Act ( Cap. 486 ) and licensed by the Bank to conduct mortgage refinance business; “non-deposit taking credit business” means— (a) granting of loans or credit facilities, whether or not digitally, to members of the public or a section of it, with or without interest, and either secured or unsecured on the goods or assets purchased; (b) asset financing whether directly or through a third-party financier; (c) buy now pay later arrangements as determined by the Bank but does not include hire purchase agreements governed by the Hire-Purchase Act ; (d) credit guarantees; (e) pay as you go arrangements as maybe determined by the Bank ; (f) peer to peer lending under collective investment schemes regulated under the Capital Markets Act ; and (g) any other activity as the Bank may determine to be a non-deposit taking credit business for purposes of this Act; Provided that this does not include any credit arrangements involving the provision of credit by a person that is merely incidental to the sale of goods and provision of services by the person. “non-deposit-taking credit provider” means a person licensed by the Bank to carry on non-deposit taking credit business using own funds and assets but does not include the national government or county government; “peer to peer lending” means a form of crowdfunding that uses online platforms to raise unsecured loans which are paid back with interest; “specified credit guarantee company” means a licensed credit guarantee company which is specified by the Bank under section 33W of this Act. \"non-resident\" means a person or body of persons other than a resident ; \"payment\" means the transfer of currency for the purpose of discharging a liability, making a gift or donation or for creating a balance at a bank , financial institution or a microfinance bank which can be drawn upon; \"payment for current transaction\" means a payment other than a payment for transferring capital and includes— (a) a payment due in connection with trade; (b) a payment due as interest or as net income or return from other investment; (c) a payment for amortization of a loan or for depreciation of direct investment; or (d) a remittance for family living expenses; \"public entity\" means the Government, the Organization, the Authority, any local authority or any public body specified by the Cabinet Secretary , on the recommendation of the Bank , as a public entity for the purposes of this Act; \"resident\" means— (a) an individual who has been present in Kenya continuously for a period of at least one year or who has declared his intention to reside in Kenya for a period of at least one year to Kenyan immigration authorities; (b) the Government of Kenya or any accredited official of its diplomatic missions residing outside Kenya; (c) a company or other body of persons whose principal place of business is located in Kenya and branches of such company or body located in Kenya; (d) branches of a company or other body of persons carrying on business in Kenya whose principal place of business is located outside Kenya, but excludes any foreign diplomatic mission or any of its accredited officials or any organization established in or outside Kenya by international treaty or any of its accredited officials; \"shilling\" means a Kenya shilling as provided in section 19 of this Act, or a shilling issued by the East African Currency Board for so long as it is legal tender in Kenya in accordance with this Act; “significant shareholder” has the meaning assigned to it under the Banking Act ( Cap. 488 ); \"specified bank\" means any bank within the meaning of such expression in the Banking Act ( Cap. 488 ) which is specified by the Bank for the purposes of this Act; “specified digital credit provider” means a licensed digital credit provider within the meaning of section 33R ; \"specified financial institution\" means a financial institution or mortgage finance company within the meaning of the Banking Act which is specified by the Bank for the purposes of this Act; \"specified microfinance bank\" means a licensed microfinance bank within the meaning of the Microfinance Act ( Cap. 493C ) which is specified by the Bank for the purposes of this Act; \"specified mortgage refinance company\" means a licensed mortgage refinance company within the meaning of section 33P , which is specified by the Bank for the purposes of the Act. “virtual asset service provider” has the meaning assigned to it under section 2 of the Virtual Asset Service Providers Act . [Act No. 9 of 1989 , 2nd Sch., Act No. 10 of 1995 , s. 2, Act No. 10 of 2010 , s. 71, Act No. 57 of 2012 , s. 52, Act No. 41 of 2013 , Sch., Act No. 10 of 2018 , s. 66, Act No. 15 of 2021 , s. 2, Act No. 10 of 2023 , Sch., Act No. 20 of 2024 , s. 4, Act No. 20 of 2025 , 2nd Sch.] Part II – ESTABLISHMENT, CONSTITUTION AND OBJECTS"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of Bank and legal status",
+      "content": "(1) There is hereby established a bank which shall be known as the Central Bank of Kenya and which shall also be known by the alternative corporate name of the Banki Kuu ya Kenya. (2) The Bank shall be a body corporate with perpetual succession and a common seal, with power to acquire, own, possess and dispose of property, to contract, and to sue and to be sued in its own name. (3) The Bank shall exercise any type of central banking function unless specifically excluded under this Act, and shall enjoy all the prerogatives of a central bank . (4) The Bank may make its own rules of conduct or procedure, not inconsistent with the provisions of this Act, for the good order and proper management of the Bank . (5) The Bank shall not be subject to the Companies Act ( Cap. 486 ) or the Banking Act ( Cap. 488 ). [Act No. 14 of 1982 , s. 30, Act No. 18 of 1986 , Sch.]"
+    },
+    {
+      "provision_ref": "s4B",
+      "chapter": "Part II",
+      "section": "4B",
+      "title": "Monetary policy statements",
+      "content": "(1) The Bank shall at intervals of not more than six months, submit to the Cabinet Secretary a monetary policy statement for the next twelve months which shall— (a) specify the policies and the means by which the Bank intends to achieve the policy targets; (b) state the reasons for adopting such policies and means; (c) contain a review and assessment of the progress of the implementation by the Bank of monetary policy during the period to which the preceding policy statement relates. (2) The Cabinet Secretary shall lay every statement submitted under subsection (1) before the appropriate committee of the National Assembly not later than the end of the subsequent session of Parliament after the statement is so submitted. (3) The Bank shall— (a) cause— (i) every monetary policy statement submitted under subsection (1) ; and (ii) its monthly balance sheet, to be published in the Gazette ; and (b) disseminate key financial data and information on monetary policy to the public. (4) In subsection (2) , the expression \"appropriate committee\" means the committee of the National Assembly appointed to investigate and inquire into matters relating to monetary policy. [Act No. 9 of 1996 , s. 2.]"
+    },
+    {
+      "provision_ref": "s4C",
+      "chapter": "Part II",
+      "section": "4C",
+      "title": "Consultations on monetary policy",
+      "content": "(1) There shall be regular consultations on monetary policy between the Cabinet Secretary and the Bank . (2) Where in exceptional circumstances and after consultation with the Bank , the Cabinet Secretary is of the opinion that the monetary policy adopted by the Bank is inconsistent with the principal object of the Bank , the Cabinet Secretary may, upon resolution by Cabinet, direct the Bank in writing to adopt such monetary policy as the Cabinet Secretary may specify for a period of six months or for such shorter period as the Cabinet Secretary may specify, and the Bank shall, upon receipt of a directive under this section, adopt and implement the monetary policy so directed notwithstanding any other provision of this Act. (3) The Cabinet Secretary shall cause every directive issued under subsection (2) to be published in the Gazette . [Act No. 9 of 1996 , s. 2.]"
+    },
+    {
+      "provision_ref": "s4D",
+      "chapter": "Part II",
+      "section": "4D",
+      "title": "Monetary Policy Advisory Committee",
+      "content": "(1) There shall be a committee of the Bank , to be known as the Monetary Policy Committee of the Central Bank of Kenya, which shall have the responsibility within the Bank for formulating monetary policy. (2) The Committee shall consist of the following members— (a) the Governor, who shall be the Chairperson; (b) the Deputy Governors, who shall be deputies to the Chairperson; (c) two members appointed by the Governor from among the staff; and (d) four other members who have knowledge, experience and expertise in matters relating to finance, banking, and fiscal and monetary policy, appointed by the Cabinet Secretary ; (e) the Principal Secretary to the National Treasury, or his representative, who shall be a non-voting member. (2A) Of the two members appointed under subsection (2)(c) — (a) one shall be a person with executive responsibility within the Bank for monetary policy analyses; and (b) one shall be a person with responsibility within the Bank for monetary policy operations. (3) At least two of the members appointed under subsection (2)(d) shall be women. (4) Each member appointed under subsection (2)(d) shall hold office for a term of three years and shall be eligible to be appointed for one additional term. (5) The Chairperson of the Committee shall convene a meeting of the Committee at least once every two months and shall convene an additional meeting if requested by at least four members in writing. (6) At least once every six months the Committee shall submit a report to the Cabinet Secretary with respect to its activities and the Cabinet Secretary shall lay a copy of each report before the National Assembly. (7) The quorum of the Committee shall be five members, one of whom must be the Chairperson or vice-Chairperson. (8) The Bank shall provide staff to assist the Committee. [Act No. 8 of 2004 , s. 2, Act No. 9 of 2007 , s. 68, Act No. 8 of 2008 , s. 73.]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Head office and branches",
+      "content": "(1) The Bank shall have its head office in Nairobi but during a time of national emergency the Bank may, unless the President otherwise directs, establish its head office temporarily or permanently in any other place within Kenya or elsewhere. (2) The Bank may establish or close branches in any place within Kenya and may, with the prior approval of the Cabinet Secretary , open or close branches outside Kenya."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Agents",
+      "content": "The Bank may, with the prior approval of the Cabinet Secretary , appoint, on such terms as it considers appropriate, or cancel the appointment of, agents, both within and outside Kenya."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Exemption from tax",
+      "content": "(1) The Bank shall not be liable to any taxation imposed by any law in respect of income or profits. (2) No duty shall be chargeable under the Stamp Duty Act ( Cap. 480 ) in respect of any instrument executed by or on behalf of or in favour of the Bank in any case where, but for this exemption, the Bank would be liable to pay such duty. (3) The Cabinet Secretary may, whether for the purpose of removing any doubt as to the extent of the foregoing provisions of this section or for the purpose of extending the immunities of the Bank , by order published in the Gazette specify any tax, duty, fee, rate, levy, cess or other impost as one to which the Bank shall not be liable, and the law relating thereto shall have effect accordingly. Part III – CAPITAL AND RESERVES"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Authorized capital of Bank",
+      "content": "(1) The authorized capital of the Bank shall be five billion shillings which may be increased by such amount as shall be determined by the Board in consultation with the Cabinet Secretary . (2) The ownership of the entire paid up capital of the Bank shall be vested in the Cabinet Secretary for the National Treasury. (3) The Bank may, having regard to the amount by which the value of the assets of the Bank exceeds its liabilities, increase its paid up capital by such amount, payable out of the General Reserve Fund, as the Board shall direct. (4) The paid up capital of the Bank shall not be reduced. [Act No. 13 of 1978 , Sch., Act No. 9 of 1996 , s. 3.]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "General Reserve Fund",
+      "content": "(1) The Bank shall establish and maintain a fund designated as the General Reserve Fund, to which shall be transferred at the end of each financial year at least ten per centum or any other amount as the Board , in consultation with the Cabinet Secretary , may determine, of the net annual profits of the Bank after allowing for the expenses of operation and after provision has been made for bad and doubtful debts, depreciation in assets, contributions to staff benefit funds, and such other contingencies and accounting provisions as the Bank deems appropriate. (2) Subject to subsection (1) , and section 51 , the net annual profits of the Bank, calculated in accordance with this section, shall be paid into the Consolidated Fund. (3) The amount of any net losses of the Bank in any financial year which is in excess of the sums standing to the credit of the general reserve fund of the Bank shall be charged upon and paid out of the Consolidated Fund without further appropriation than this Act. [Act No. 13 of 1978 , Sch., Act No. 9 of 1996 , s. 4.] Part IV – MANAGEMENT"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Governor",
+      "content": "(1) There shall be a Governor who shall be appointed by the President though a transparent and competitive process and with the approval of the National Assembly. (2) The Governor shall hold office for a term of four years, but shall be eligible for re-appointment for one further term of four years. (3) The Governor shall be the chief executive officer of the Bank and, subject to the general policy decisions of the Board , shall be responsible for the management of the Bank , including the organization, appointment and dismissal of the staff in accordance with the general terms and conditions of service established by the Board , and the Governor shall have authority to incur expenditure for the Bank within the administrative budget approved by the Board . (4) The Governor shall be the principal representative of the Bank and shall, in that capacity have authority— (a) to represent the Bank in its relations with other public entities, persons or bodies; (b) to represent the Bank , either personally or through counsel, in any legal proceedings to which the Bank is a party; (c) to sign individually or jointly with other persons contracts concluded by the Bank , notes and securities issued by the Bank reports, balance sheets, and other financial statements, correspondence and other documents of the Bank . (5) The Governor may delegate any of his powers provided for in this section to other officers of the Bank . [Act No. 4 of 2012 , s. 47, Act No. 36 of 2012 , s. 4, Act No. 14 of 2015 , s. 45.]"
+    },
+    {
+      "provision_ref": "s13A",
+      "chapter": "Part IV",
+      "section": "13A",
+      "title": "Common seal and power of attorney",
+      "content": "(1) The affixing of the common seal of the Bank shall be authorized by the signature of the Governor and of some other person or persons authorized by the Governor in that behalf. (2) The Governor may, under the common seal of the Bank , empower any person to execute or authenticate on behalf of the Bank any documents on its behalf. [Act No. 13 of 1978 , Sch.]"
+    },
+    {
+      "provision_ref": "s13B",
+      "chapter": "Part IV",
+      "section": "13B",
+      "title": "Deputy Governor",
+      "content": "(1) There shall be two Deputy Governors who shall be appointed by the President through a transparent and competitive process and with the approval of Parliament. (2) The Deputy Governors shall hold office for a term of four years, but shall be eligible for re-appointment for one further term of four years. (3) The Deputy Governors shall perform such functions as the Governor may from time to time assign to them. (4) The Board shall appoint one of the Deputy Governors to act in the office of Governor whenever— (a) the position of Governor falls vacant in the period before a substantive appointment is made; or (b) the Governor is temporarily absent from office. (5) A Deputy Governor appointed under subsection (4) shall, during the period of appointment, exercise all the powers and perform all the functions conferred on the Governor under this Act under any other law. [Act No. 10 of 2006 , s. 50, Act No. 4 of 2012 , s. 48.]"
+    },
+    {
+      "provision_ref": "s13C",
+      "chapter": "Part IV",
+      "section": "13C",
+      "title": "Qualifications for Governor and Deputy Governor",
+      "content": "(1) The Governor and Deputy Governors shall be fit and proper persons of recognized professional standing and over ten years' experience at senior management level in the field of economics, banking, finance, law or other fields relevant to the functions of the Central Bank. (2) For the purposes of this section, \"fit and proper\" means possessing all the attributes to be taken into account in determining the suitability of a person to be appointed as Governor, including the person's general probity, competence and soundness of judgment for the fulfillment of the responsibilities of office and the diligence with which the person is likely to fulfill those responsibilities. [Act No. 36 of 2012 , s. 5.]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Special disqualifications for Governor and Deputy Governor",
+      "content": "(1) The Governor and the Deputy Governor shall owe their allegiance entirely to the Bank and shall not engage in any paid employment or business or professional activity outside the duties of their respective offices: Provided that nothing in this subsection shall prevent the Governor or Deputy Governor from accepting or holding any academic office or position in an institution of higher learning or any advisory position or membership in any committee or commission with public responsibility, or from serving in any international financial institution of which Kenya is a member or with which Kenya is associated, or any specialized financial institution established by the Government. (2) If the Governor or the Deputy Governor engages in any paid employment or business or professional activity outside the duties of his office contrary to subsection (1) , the President shall terminate his appointment: Provided that in the case of the Governor, the provisions of section 14 shall apply. (3) The President may specifically exempt any transactions or activities from the restrictions of this section. [Act No. 9 of 1996 , s. 9.]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Remuneration",
+      "content": "(1) The Governor, the Deputy Governor, and any substitute appointed under section 11 (4) of this Act shall be paid by the Bank such salaries and allowances as may be determined from time to time by the President, but such salaries and allowances shall not be altered to the detriment of any person during his term of office. (2) The directors and any substitute appointed under section 11 (4) shall be paid by the Bank such allowances as may from time to time be determined by the President."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Preservation of secrecy",
+      "content": "(1) Except for the purpose of the performance of his duties or the exercise of his powers, the Governor, the Deputy Governor, any Director or any other officer or employee of the Bank shall not disclose any information which he has acquired in the performance of his duties or the exercise of his powers. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable to a fine not exceeding two thousand shillings or to imprisonment for a term not exceeding one year, or to both in addition to any disciplinary action which may be taken by the Board."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Declaration of interest",
+      "content": "The Governor, the Deputy Governor, and any Director shall declare his or her interest in any specific proposal being considered or to be considered by the Board . Part V – CURRENCY"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Currency of Kenya",
+      "content": "(1) The unit of currency of Kenya shall be the Kenya shilling , which shall be divided into one hundred cents. (2) Twenty shillings shall equal one Kenya pound."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Issue of notes and coins, legal tender, and withdrawal",
+      "content": "(1) The Bank shall have the sole right to issue notes and coins in Kenya and, subject to subsection (4), only those notes and coins shall be legal tender in Kenya: Provided that coins of a denomination of fifty cents shall be legal tender only for payments up to twenty shillings, and coins of a denomination of less than fifty cents shall be legal tender only for payments up to five shillings. (2) The denominations, inscriptions, forms, material and other characteristics of the notes and coins issued by the Bank shall be determined by the Bank in consultation with the Cabinet Secretary , and shall be notified in the Gazette and in other media of public information likely to bring them to the attention of the public. (3) The Bank shall have power to withdraw any notes or coins issued by the Bank , and the procedure for and effect of any such withdrawal shall be as follows— (a) a notice published in the Gazette , and in such other manner as the Bank considers likely to bring that notice to the attention of the public, shall specify the issues, and the denominations forming part of the issues, of notes or coins that are to be withdrawn, the places where those notes or coins may be taken for exchange, and the date on which those notes or coins shall cease to be legal tender; (b) the notice given under the foregoing paragraph may provide that, after such period as may be specified in the notice, the notes or coins to which the notice applies shall only be exchanged at the head office of the Bank ; (c) the notes or coins specified in a notice given under paragraph (a) shall be exchanged at their face value for legal tender at the places and for the periods (which shall be of reasonable duration) specified in relation to those places in the notice, and shall cease to be legal tender on the date specified in the notice; (d) the Bank may, by notice published in the same manner as notice given under paragraph (a) , specify a period during which notes or coins which have ceased to be legal tender may nevertheless be exchanged at the head office of the bank, and after which those notes or coins shall no longer be exchanged. [Act No. 9 of 1996 , s. 11.]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Exchange of mutilated notes and coins",
+      "content": "The Bank shall not be obliged to exchange any note or coin which is mutilated, defaced, soiled or otherwise defective, and the conditions subject to which the Bank may as a matter of grace exchange any such note or coin shall be within the absolute discretion of the Bank ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VI",
+      "section": "26",
+      "title": "Reserve of external assets",
+      "content": "(1) The Bank shall at all times use its best endeavours to maintain a reserve of external assets at an aggregate amount of not less than the value of four months imports as recorded and averaged for the last three preceding years; and subject to subsection (3) the reserve shall consist of any or all of the following— (a) gold; (b) convertible foreign exchange in the form of— (i) demand or time deposits with foreign central banks or with the Bank ’s agents or correspondents outside Kenya; (ii) documents and instruments customarily used for the making of payments or transfers in international transactions; (iii) notes or coins; (c) convertible and marketable securities of, or guaranteed by, foreign governments or international financial institutions: Provided that if, at any time, the Bank is unable to maintain the reserve of external assets required under this subsection, it shall provide the Cabinet Secretary with a timebound remedial plan. (2) The Bank shall from time to time determine the type and form of convertible foreign exchange and the kinds of securities which may be held in the reserve of external assets pursuant to subsection (1) . (3) The Bank may include in its reserve of external assets any liquid external asset not included in subsection (1) , or any readily available international drawing facility, which the Bank, after consultation with the International Monetary Fund and with the approval of the Cabinet Secretary, considers suitable for inclusion in the reserve. [Act No. 8 of 2009 , s. 62.]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VI",
+      "section": "27",
+      "title": "Dealings in gold and foreign exchange",
+      "content": "(1) The Bank may buy, sell, import, export, hold or otherwise deal in gold or foreign exchange under such terms and conditions as it shall determine: Provided that the buying and selling rates involved in such transactions shall be in accordance with international agreements to which Kenya is a party, or with which Kenya is associated. (2) The Bank may hold balances, denominated in foreign currencies, with foreign central banks or with the Bank ’s agents or correspondents abroad and, in its discretion, may invest such balances in marketable foreign securities denominated in convertible currencies. [Act No. 10 of 2006 , s. 51.]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VI",
+      "section": "28",
+      "title": "Institutions with which Bank may deal in foreign exchange",
+      "content": "The Bank may engage in foreign exchange transactions only with— (a) authorized dealers; (b) public entities; (c) foreign central banks, foreign banks, or foreign financial institutions; (d) foreign Governments or agencies of foreign Governments; (e) international financial institutions; (f) any other person or body of persons whom the Bank may, by notice in the Gazette , prescribe for the purposes of this section. [Act No. 10 of 1995 , s. 4.]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Relations with foreign central banks, foreign banks and foreign financial institutions",
+      "content": "The Bank may open accounts for and accept deposits from, collect money and other monetary claims for and on account of, foreign central banks, foreign banks and foreign financial institutions, and may generally act as banker to those banks or institutions."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Fiscal agent for Government’s transactions with international financial institutions",
+      "content": "The Bank shall be the fiscal agent for all of the Government’s transactions with international financial institutions of which Kenya is a member or with which Kenya is associated."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Depository",
+      "content": "The Bank shall act as depository for Kenya currency holdings owned by international financial institutions of which Kenya is a member or with which Kenya is associated. Part VIA – REGULATIONS OF FOREIGN EXCHANGE DEALINGS"
+    },
+    {
+      "provision_ref": "s33A",
+      "chapter": "Part VIA",
+      "section": "33A",
+      "title": "Authorized dealers",
+      "content": "(1) Subject to subsection (3) , no person shall, in Kenya, transact foreign exchange business except an authorized dealer. (2) A person who contravenes the provisions of subsection (1) commits an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding three years, or to both. (3) Notwithstanding the provisions of subsection (1) , the Bank may permit such person or class of persons as it may specify, to transact foreign exchange business without a licence, subject to such conditions as it may impose."
+    },
+    {
+      "provision_ref": "s33B",
+      "chapter": "Part VIA",
+      "section": "33B",
+      "title": "Licensing of authorized dealers",
+      "content": "(1) A person proposing to transact foreign exchange business shall, before commencing such business, apply to the Bank for a licence. (2) An application under this section shall be made in the prescribed form and shall be forwarded to the Bank together with the prescribed fee. (3) In considering an application for a licence, the Bank may require to be satisfied as to the financial condition and history of the applicant, the character of its management, the adequacy of its capital structure and the convenience and needs of the area to be served and the public interest which will be served by granting of the licence. (4) The Bank may, subject to the payment of the prescribed fee and to such conditions as it may consider necessary, grant a licence to the applicant. (5) Where a licence has been granted under this section, the Bank may add, vary, or substitute any conditions attached thereto. (6) A licence issued under this section shall, unless earlier revoked, expire on the 31st December next following the date of issue: Provided that where an application for renewal is made under section 33C , the licence shall be deemed to continue in force until the application for renewal is determined. [Act No. 10 of 1995 , s. 6, Act No. 4 of 2012 , s. 49.]"
+    },
+    {
+      "provision_ref": "s33C",
+      "chapter": "Part VIA",
+      "section": "33C",
+      "title": "Renewal of licence",
+      "content": "(1) A licence issued under section 33B may on expiry be renewed for a further period of twelve months: Provided that where an authorized dealer fails to commence business in Kenya within six months of the grant of a licence, the authorized dealer shall, if still intending to transact foreign exchange business in Kenya, apply for a licence as though the first licence had never been granted. (2) An application for the renewal of a licence shall— (a) be made in the prescribed form and forwarded to the Bank together with the prescribed fee; (b) be lodged with the Bank at least two months prior to the expiry of the licence. (3) An application for renewal of a licence shall be considered in accordance with the provisions of section 33B . [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33D",
+      "chapter": "Part VIA",
+      "section": "33D",
+      "title": "Revocation or suspension of licence",
+      "content": "(1) Subject to subsection (2) the Bank may, by notice in writing to an authorized dealer, revoke or suspend a licence for such period as it may specify, if the authorized dealer— (a) ceases to carry on business in Kenya or goes into liquidation or is wound up, or is otherwise dissolved; or (b) fails to comply with the provisions of this Act or any condition attached to a licence. (2) Before revoking or suspending a licence under this section, the Bank shall give an authorized dealer not less than fourteen days notice in writing and shall consider any representations made to it in writing by the authorized dealer within that period. [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33E",
+      "chapter": "Part VIA",
+      "section": "33E",
+      "title": "Duties of authorized dealers",
+      "content": "Every authorized dealer shall— (a) maintain such books, accounts, records or other documents as the Bank may specify, and shall furnish the same to the Bank at such time and in such manner as the Bank may specify; (b) maintain such levels of foreign currency assets or liabilities as the Bank may specify; (c) comply with such requirements regarding the establishment, maintenance and operation of foreign currency accounts as the Bank may impose; and (d) comply with such measures to improve the management or its business methods as the Bank may impose. [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33F",
+      "chapter": "Part VIA",
+      "section": "33F",
+      "title": "Inspection of dealers",
+      "content": "(1) The Bank may, at any time and from time to time cause an inspection to be made by any person authorized by it in writing, of any authorized dealer and of its books, accounts and records. (2) Subject to subsection (4) , when an inspection is made under subsection (1) , the authorized dealer concerned and every officer or employee thereof shall produce and made available to the person making the inspection, all books, accounts, records and other documents of the authorized dealer and such correspondence, statement and information relating to the authorized dealer, its business and the conduct thereof as the person making the inspection may require, within such period as he may specify in writing. (3) Any failure to produce any books, accounts, records, documents, correspondence, statement or information within the period specified in the relevant direction shall constitute an offence under this Part. (4) Notwithstanding the provisions of subsection (2) — (a) any books, accounts, records and other documents required to be produced under this section shall not, in the course of the inspection, be removed from the premises of the authorized dealer or other premises at which they are produced; (b) the person making the inspection may make copies of any books, accounts and other documents required for the purposes of his report; (c) all information obtained in the course of the inspection shall be treated as confidential and used solely for the purposes of this Part. (5) A person who makes an inspection shall submit a report of his findings to the Bank indicating— (a) any breach or failure to observe the requirements of this Part and any orders or directions made thereunder; (b) any irregularity in the manner of conduct of the business of the authorized dealer inspected; (c) any apparent mismanagement of business or lack of management skills in that authorized dealer ; (d) any other matter revealed or discovered in the course of the inspection warranting, in the opinion of the person making the inspection, remedial action or further investigation. (6) The Central Bank may publish in whole or in part, at such times and in such manner as it deems fit, any information furnished to it under this Part: Provided that the information so furnished shall not be published if it would disclose the financial affairs of any person, unless the consent, in writing, of that person has first been given. (7) Except as provided in the Act, no person shall disclose or publish any information which comes into his possession as a result of the performance of his duties or responsibilities under this Act. (8) Notwithstanding the provisions of this section, the Central Bank may disclose any information referred to in subsection (7) to any monetary authority, financial regulatory authority, fiscal or tax agency, or fraud investigation agency within or outside Kenya, where such information is reasonably required for the proper discharge of the functions of the Central Bank or the requesting authority, financial regulatory authority, fiscal or tax agency or fraud investigation agency: Provided that the sharing of information with any authority or agency outside Kenya shall be on reciprocal basis. [Act No. 10 of 1995 , s. 6, Act No. 10 of 2010 , s. 72.]"
+    },
+    {
+      "provision_ref": "s33G",
+      "chapter": "Part VIA",
+      "section": "33G",
+      "title": "Powers of Bank to advise and direct dealers",
+      "content": "(1) If at any time or upon an inspection under section 33F , the Bank has reason to believe that the business of an authorized dealer is being conducted in a manner contrary to any of the requirements of this Part or any regulations made thereunder, or in a manner detrimental to or not in the best interests of the public, the Bank may— (a) give advice and make recommendations to the authorized dealer with regard to the conduct of business generally; (b) issue directions regarding measures to be taken to improve the management business methods of or the authorized dealer , or to secure compliance with the requirements of this Part or any other written law; (c) appoint a person suitably qualified and competent in the opinion of the Bank , to advise and assist the authorized dealer generally, or for the purposes of implementing any directions issued under paragraph (b) , and the advice of a person so appointed shall have the same force and effect as a direction issued under paragraph (b) and shall be deemed to be a direction of the Bank under this section. (2) No direction shall be issued under paragraph (b) or (c) of subsection (1) unless the Bank has given the authorized dealer an opportunity to present its views. (3) An authorized dealer shall, on receipt of any direction under this section, comply with the direction within such period as may be specified in the direction, and it so required, produce evidence to the Bank that it has done so. [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33H",
+      "chapter": "Part VIA",
+      "section": "33H",
+      "title": "Regulation of payments between residents and non-residents",
+      "content": "(1) Except with the permission of the Bank , every payment made— (a) in Kenya, to or for the credit of a person outside Kenya; or (b) outside Kenya, to or for the credit of a person in Kenya; or (c) in Kenya (other than a payment for a current transaction) between a resident and non-resident , shall be effected through an authorized Bank or an authorized microfinance bank . (2) A person who contravenes any of the provisions of this section commits an offence and shall be liable on conviction to a fine not exceeding five hundred thousand shillings or to imprisonment for a term not exceeding three years, or to both. [Act No. 10 of 1995 , s. 6, Act No. 41 of 2013 , Sch.]"
+    },
+    {
+      "provision_ref": "s33I",
+      "chapter": "Part VIA",
+      "section": "33I",
+      "title": "Imposition of restrictions to meet treaty obligations",
+      "content": "The Bank may, in consultation with the Cabinet Secretary , impose restrictions on payment for the purposes of enabling the Government of Kenya meet its obligations under any international treaty. [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33K",
+      "chapter": "Part VIA",
+      "section": "33K",
+      "title": "Instructions or directions",
+      "content": "(1) Subject to section 33G , the Bank may issue such instructions or directions to authorized dealers as it may consider necessary. (2) Any instruction or direction under this section may— (a) be either general or special; (b) be revoked or varied by subsequent instruction or direction; (c) be given to such persons and in such manner as is in the opinion of the Bank appropriate. (3) A person who fails to comply with instruction or direction issued by the Bank under this section commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding three years, or to both. [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33L",
+      "chapter": "Part VIA",
+      "section": "33L",
+      "title": "General penalty under Part",
+      "content": "A person convicted of an offence under this Part for which no other penalty is provided shall liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding three years, or to both. [Act No. 10 of 1995 , s. 6, Act No. 8 of 2009 , s. 63.]"
+    },
+    {
+      "provision_ref": "s33M",
+      "chapter": "Part VIA",
+      "section": "33M",
+      "title": "Protection from liability",
+      "content": "Neither the Bank nor any officer or employee thereof nor any other person appointed by the Bank under the provisions of this Part shall be liable in respect of any act or omission done in good faith by such officer, employee or other person in the execution of the duties undertaken by him. [Act No. 10 of 1995 , s. 6.]"
+    },
+    {
+      "provision_ref": "s33P",
+      "chapter": "Part VIB",
+      "section": "33P",
+      "title": "Licensing",
+      "content": "(1) A person shall not engage in mortgage refinance business unless that person has been licensed by the Bank . (2) An application for a licence under in subsection (1) shall be made to the Bank in the prescribed form and accompanied by the prescribed fee. (3) A person who contravenes the provision of subsection (1) commits an offence. [Act No. 10 of 2018 , s. 68.]"
+    },
+    {
+      "provision_ref": "s33R",
+      "chapter": "Part VIC",
+      "section": "33R",
+      "title": "Regulation of non-deposit taking credit providers.",
+      "content": "(1) Without prejudice to the generality of section 4A(1)(da) , the Bank shall have power to— (a) register, license and regulate non-deposit-taking credit providers which are not regulated under any other written law; (b) approve channels through which non-deposit-taking credit business may be conducted; (c) determine parameters for pricing of credit; (d) supervise non-deposit taking credit providers in such manner as the Bank may prescribe; and (e) prescribe an enforceable Code of Conduct binding all non-deposit-taking credit providers in their conduct of business. (2) Non-deposit-taking credit providers registered by the Bank shall be subject to such supervision, oversight or monitoring as the Bank may determine. [Act No. 15 of 2021 , s. 4, Act No. 20 of 2024 , s. 7.]"
+    },
+    {
+      "provision_ref": "s33S",
+      "chapter": "Part VIC",
+      "section": "33S",
+      "title": "Licensing",
+      "content": "(1) A person shall not carry on any non-deposit-taking credit business unless that person has been licensed by the Bank under this Act or is permitted to do so under any other written law. (2) An application for a license under subsection (1) shall be made to the Bank in such form and shall be accompanied by such information and fee as may be prescribed. (3) An application under subsection (2) shall be accompanied by— (a) a copy of the certificate of incorporation under the Companies Act ; (b) a certified copy of the applicant’s memorandum and articles of association; (c) a notification of the company’s registered address; (d) a certificate issued pursuant to section 19 of the Data Protection Act ( Cap. 411C ); (e) a statement as to compliance with the provisions of Part VII of the Consumer Protection Act ( Cap. 501 ); and (f) such other documents as may be prescribed by the Bank . (4) Without prejudice to subsection (3)(e) , a non-deposit-taking credit provider shall provide terms and conditions applicable to the credit which shall accepted by the borrower. (5) The Bank may grant or reject an application for a licence by written notice addressed to the applicant within sixty days from the date of receipt of an application. (6) A licence granted under this section shall remain valid unless suspended or revoked by the Bank in accordance with this Act, but upon expiry of the prescribed period may be renewed. (7) The Bank may suspend or revoke a licence by written notice to the holder of the licence, if — (a) the licensee does not meet the conditions prescribed by the Bank ; (b) the licensee is in breach of subsection (3) or the conditions of the Data Protection Act ( Cap. 411C ) or the Consumer Protection Act ( Cap. 501 ); (c) the licensee is found to have given false information during the application; (d) the licensee goes into liquidation or an order for winding up is issued; (e) the carries out activities outside the scope of the licensed activities; (f) the licensee is in breach of any of the provisions of this Act and the regulations made thereto relating to non-deposit-taking credit business; (g) the licensee fails to conclusively address a customer’s complaint within the time and in the manner prescribed by the Bank under this Act or as the Bank may direct; (h) the licensee fails to comply with a directive of the Bank ; or (i) the licensee imposes unreasonable or unjustifiable charges on the loan. (8) Without prejudice to subsection (6) , an applicant may apply for renewal of the licence at least three months before expiry of the licence. (9) The Bank shall cause to be published in the Gazette and the Bank ’s website— (a) before the thirtieth day of March in each year, the names and addresses of all licenced non-deposit-taking credit providers under this section; (b) within thirty days of suspension or revocation of a license, the name and address of the non-deposit-taking credit providers whose licences have been suspended or revoked. (10) A person who contravenes the provisions of this section commits an offence and shall be liable upon conviction to imprisonment for a term not exceeding three years or to a fine not exceeding five million shillings or to both. [Act No. 15 of 2021 , s. 4, Act No. 20 of 2024 , s. 8.]"
+    },
+    {
+      "provision_ref": "s33T",
+      "chapter": "Part VIC",
+      "section": "33T",
+      "title": "Consultation",
+      "content": "The Bank shall consult with other regulators including but not limited to the— (a) the Office of the Data Protection Commissioner; and (b) the Communications Authority. [Act No. 15 of 2021 , s. 4.]"
+    },
+    {
+      "provision_ref": "s33U",
+      "chapter": "Part VIC",
+      "section": "33U",
+      "title": "Disclosure of credit information",
+      "content": "Notwithstanding the provisions of this section, a digital lender shall disclose any positive or negative information of its customers to the licensed credit reference bureaus, where such information is reasonably required for the discharge of the functions of the digital lenders and the licensed credit reference bureaus. [Act No. 15 of 2021 , s. 4.] Part VID – CREDIT GUARANTEE BUSINESS Act No. 20 of 2024 , s. 9.]"
+    },
+    {
+      "provision_ref": "s33V",
+      "chapter": "Part VID",
+      "section": "33V",
+      "title": "Interpretation of Part",
+      "content": "In this Part, unless the context otherwise requires— “credit guarantee business” means the business of providing a guarantee to a lender through absorption of all or a portion of the lender’s risk on a credit facility made to a borrower in case of default; “credit guarantee company” means a company limited by shares incorporated or registered under the Companies Act ( Cap. 486 ) and licensed by the Bank to carry on credit guarantee business . Act No. 20 of 2024 , s. 9.]"
+    },
+    {
+      "provision_ref": "s33W",
+      "chapter": "Part VID",
+      "section": "33W",
+      "title": "Registration",
+      "content": "(1) A person who intends to carry on credit guarantee business in Kenya shall apply to the Bank for registration. (2) An application under subsection (1) shall be in the prescribed form and accompanied by the prescribed fee. (3) The Bank shall prescribe, in Regulations, the requirements and procedure for registration under subsection (1) . (4) The Bank shall issue a successful applicant with a certificate of registration in the prescribed form. (5) A person who carries on credit guarantee business without being registered by the Bank commits an offence and is liable, on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years, or to both. (6) Where the offence contemplated in subsection (5) is committed by a body corporate, that body corporate shall be liable, on conviction, to a fine not exceeding ten million shillings. Act No. 20 of 2024 , s. 9.]"
+    },
+    {
+      "provision_ref": "s33X",
+      "chapter": "Part VID",
+      "section": "33X",
+      "title": "Licensing",
+      "content": "(1) A person registered under section 33W who intends to carry on credit guarantee business in Kenya shall apply to the Bank for a licence in the prescribed form and on payment of the prescribed fee. (2) A person carrying on credit guarantee business in Kenya shall not be required to apply for a licence under subsection (1) if that person— (a) is a credit guarantee provider that is owned by a foreign government and has entered into an agreement with the Government for the purposes of supporting access to financial services in Kenya; (b) is a credit guarantee provider that is owned or supported by international financial institutions and has entered into an agreement with the Government to provide credit guarantee services to targeted groups, sectors or regions for a specified period of time; (c) is a credit guarantee company registered outside Kenya and has entered into a partnership with a financial institution in Kenya to provide credit guarantee services; or (d) is a bank providing credit guarantees as part of its regular business regulated by the Banking Act . (3) Each licenced credit guarantee company shall pay an annual licence fee. (4) A person who carries on credit guarantee business without a licence commits an offence and is liable, on conviction to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years, or to both. (5) Where the offence contemplated in subsection (4) is committed by a body corporate, that body corporate shall be liable, on conviction, to a fine not exceeding ten million shillings. (6) A person who provides false information for the purposes of obtaining a licence under this section commits an offence and shall, on conviction— (a) in the case of natural person, be liable to a fine not exceeding one million shillings, or to imprisonment for a term not exceeding three years, or to both; and (b) in the case of body corporate, to a fine not exceeding ten million shillings. Act No. 20 of 2024 , s. 9.]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Banker to institutions",
+      "content": "(1) The Bank shall open accounts for and accept deposits from, collect monetary claims for and on account of institutions and generally act as banker to institutions. (2) The Bank may provide any additional services or facilities that it considers desirable including facilities for clearing financial instruments to institutions operating in Kenya. (3) For the purposes of this section, \"institution\" includes— (a) a specified bank ; (b) a specified financial institution ; (c) a specified microfinance bank ; (d) any other person or body of persons which the Cabinet Secretary may, on the recommendation of the Bank , and by notice in the Gazette , prescribe. [Act No. 13 of 1995 , Sch. 1, Act No. 41 of 2013 , Sch.]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Loans",
+      "content": "(1) The Bank may grant loans or advances for fixed periods not exceeding six months to specified banks and specified microfinance banks which pledge treasury bills or other Government securities specified by the Bank . (2) Except as provided in this section, the Bank shall not extend credit directly, or indirectly to specified banks or specified microfinance banks. (3) The Bank may determine the general terms and conditions under which it extends credit to specified banks and specified microfinance banks, and in particular, the Bank shall determine and announce the rates of interest or return it shall charge for granting loans or advances to specified banks and specified microfinance banks in accordance with this section, and may determine different rates of interest or return for different classes of transactions or maturities. (4) The Bank shall publish the lowest rate of interest it charges on loans to banks and microfinance banks, and that rate shall be known as the central bank rate. [Act No. 9 of 1996 , s. 15, Act No. 8 of 2004 , s. 3, Act No. 10 of 2010 , s. 73, Act No. 41 of 2013 , Sch.]"
+    },
+    {
+      "provision_ref": "s36A",
+      "chapter": "Part VII",
+      "section": "36A",
+      "title": "Publication and sharing of information",
+      "content": "(1) The Central Bank shall publish in the Gazette , the Central Bank website and two daily newspapers of national circulation the following information— (a) the weighted average lending and deposit rates for all banks and financial institutions; (b) the interest rate spread and its composition; (c) a simplified version of the balance sheets and income statements. (2) Notwithstanding the provisions of this section, a bank shall disclose any positive or negative information of its customers to the licensed credit reference bureaus, where such information is reasonably required for the discharge of the functions of the banks and the licensed credit reference bureaus. [Act No. 4 of 2012 , s. 50.]"
+    },
+    {
+      "provision_ref": "s36B",
+      "chapter": "Part VII",
+      "section": "36B",
+      "title": "Reports to Parliament",
+      "content": "The Central Bank shall, on a quarterly basis, make and present to Parliament a report on the key economic and banking sector aggregate. [Act No. 4 of 2012 , s. 51.]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Reserve requirement",
+      "content": "(1) The Bank may from time to time require institutions to maintain minimum cash balances on deposit with the Bank as reserves against their deposit and other liabilities. (2) The Bank may specify ratios for different types of liabilities and may further specify the method of computing the amount of the total liabilities of an institution but the ratios specified shall be the same for all institutions: Provided that nothing in this subsection shall be construed to prevent the Bank from allowing an institution or group of institutions upon which the provisions of subsection (1) are applied for the first time, a period within which to comply with the cash reserve ratio requirements as may be prescribed by the Bank. (3) Any specification of, or increase in the minimum reserve requirements under subsection (1) or subsection (2) shall take effect only after the expiration of thirty days’ notice to the institution of the Bank’s intention to take action. (4) The Bank may impose on any institution which fails to maintain the sufficient minimum cash balances required under this section, a penalty charge not exceeding one percent per day on the amount of the deficiency or ten thousand shillings, whichever is the higher for each day for which the deficiency continues. (5) The Bank may, if in its opinion circumstances of an unusual nature render it desirable so to do, pay a return and subject to such qualifications as it may determine on minimum cash balances deposited with the Bank under this section. (6) For the purposes of this section, \"institution\" includes— (a) a bank licensed under the Banking Act ( Cap. 488 ); (b) a financial institution licensed under the Banking Act ( Cap. 488 ); (c) any other person or body of persons which the Cabinet Secretary , on the recommendation of the Bank may by notice in the Gazette prescribe. [Act No. 10 of 1980 , s. 9, Act No. 13 of 1995 , Sch. 1, Act No. 9 of 2007 , s. 70, Act No. 10 of 2010 , s. 74.]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Fiscal agent and banker to public entities",
+      "content": "(1) The Bank shall act as fiscal agent of and banker to the Government. (2) The Bank may also perform the functions of fiscal agent and banker for any other public entity in accordance with, and within the scope determined by, any special arrangements made between the Bank and the public entity concerned."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Functions as fiscal agent",
+      "content": "The Bank in its capacity as fiscal agent and banker to any public entity may, subject to the instructions of that public entity , have power— (a) be the official depository of the public entity concerned and accept deposits and effect payments for the account of that public entity : Provided that the Bank may, after consultation with the Cabinet Secretary , select any specified bank to act in its name and for its account as the official depository of that public entity in places where the Bank has no office or branch; (b) maintain and operate special official accounts in accordance with arrangements made between the Bank and the public entity concerned; (c) as an agent of the Government, administer the public debt including the issuance of, payment of return on, and redemption of, bonds and other securities of the Government; (d) pay, remit, collect or accept for deposit or custody funds in Kenya or abroad; (e) purchase, sell, transfer or accept for custody cheques, bills of exchange and securities; (f) collect the proceeds, whether principal or interest or return, resulting from the sale for, or accruing to the interest of, a public entity of securities or other property; (g) purchase, sell, transfer or accept for custody gold or foreign exchange. [Act No. 10 of 2010 , s. 75.]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Direct advances to Government",
+      "content": "(1) Subject to the provisions of this section, the Bank may make direct advances to the Government for the purpose of offsetting fluctuations between receipts from the budgeted revenue and payments of the Government. (2) Each advance made to the Government under this section shall— (a) be secured with negotiable securities issued by the Government which mature not later than twelve months; (b) bear interest at market rate; and (c) be made solely for the purpose of providing temporary accommodation to the Government. (3) The total amount outstanding at any time of advances made under this section shall not exceed five per centum of the gross recurrent revenue of the Government as shown in the Appropriation Accounts for the latest year for which those Accounts have been audited by the Auditor-General: Provided that this subsection shall not apply in respect of advances made by the Bank to the Government prior to the commencement of this section. (4) Any advance made by the Bank to the Government which is outstanding at the commencement of this section shall be deemed to be a loan granted by the Bank to the Government on such terms and conditions as may be determined by the Bank in consultation with the Cabinet Secretary . (5) Any advance deemed to be a loan under subsection (4) shall be secured with such Government securities as the Bank may specify. (6) For the purposes of subsection (3) , the recurrent revenue of the Government shall include revenue from taxes, customs, excise and other duties, fees, rents, profits and income from any investment or undertaking, but shall not include proceeds from grants, or loans or disposal of assets for purposes of privatisation or any form of borrowing whether short-term or long-term. [Act No. 9 of 1996 , s. 18.]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Open market operations",
+      "content": "(1) For purposes of regulating the money supply, the Bank may with the approval of the Board — (a) purchase, hold or sell negotiable securities of any maturity issued by the Government or any other negotiable securities specified by the Bank ; (b) issue or hold Central Bank of Kenya bills and purchase or sell outright or by way of repurchase agreement, Central Bank of Kenya Bills; (c) accept money as deposit from commercial banks and microfinance banks on such terms as may be specified by the Bank . (2) The total amount of securities held by the Bank at any time under subsection (1) of this section shall be excluded in the computation of the limit prescribed in subsection (3) of section 46 . [Act No. 9 of 1996 , s. 19, Act No. 8 of 2008 , s. 75, Act No. 41 of 2013 , Sch.]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Prohibition of lending to public entities",
+      "content": "Except as provided in accordance with sections 36 , 46 , 46A and 47 the Bank shall not extend any credit directly or indirectly to any public entity. [Act No. 9 of 1996 , s. 21, Act No. 15 of 2003 , s. 54.]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Adviser to Government",
+      "content": "(1) It shall be the duty of the Bank to advise the Cabinet Secretary on any matter which in its opinion is likely to affect the achievement of the principal objects of the Bank as specified in section 4 . (2) The Bank may tender advice to the Cabinet Secretary on any matter in which the Bank is concerned. (3) The Cabinet Secretary may request the Bank to give its advice on any particular measures, situations or transactions, or on monetary, banking and credit conditions in or outside Kenya, and the Bank shall give its advice accordingly. Part IX – MISCELLANEOUS PROVISIONS"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "Revaluation profits or losses",
+      "content": "(1) Profits or losses which are attributable to any revaluation of the Bank ’s net assets or liabilities in gold, foreign exchange or foreign securities, made as a result of any change in the value of any currency unit, shall be taken into account in the computation of the annual profits and losses of the Bank : Provided that the accounts of the Bank shall distinguish the profits or losses arising from normal operations of the Bank and those resulting from profits or loss from exchange fluctuations. (2) The balance outstanding in the Revaluation Account existing immediately before the commencement of this section shall be repaid from the net annual profits of the Bank by instalments of such amount as the Board , in consultation with the Cabinet Secretary , may determine. [Act No. 9 of 1996 , s. 22.]"
+    },
+    {
+      "provision_ref": "s51A",
+      "chapter": "Part IX",
+      "section": "51A",
+      "title": "Powers on anti-money laundering, combating the financing of terrorism and countering proliferation financing matters",
+      "content": "(1) Pursuant to sections 2A , 36A , 36B and 36C of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ), the Central Bank shall regulate, supervise and enforce compliance for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes by all reporting institutions regulated and supervised by the Central Bank and to whom the provisions of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ) apply. (2) In undertaking its mandate under subsection (1) , the Central Bank may - (a) vet proposed significant shareholders, proposed beneficial owners, proposed directors and senior officers of a reporting institution; (b) conduct onsite inspection; (c) conduct offsite surveillance; (d) undertake consolidated supervision of a reporting institution and its group; (e) compel the production of any document or information the Central Bank may require for the purpose of discharging its supervisory mandate under the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ); (f) impose monetary, civil or administrative sanctions for violations related to anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes; (g) issue regulations, guidelines, directions, rules or instructions for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes; (h) cooperate and share information for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes; and (i) take such action as is necessary to supervise and enforce compliance by reporting institutions in line with the provisions of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ) and any regulations, guidelines, rules, instruction or direction made or issued thereunder. (3) For purposes of this section, “reporting institution” has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ). [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s51B",
+      "chapter": "Part IX",
+      "section": "51B",
+      "title": "Penalties for violations relating to money laundering, terrorism financing.",
+      "content": "(1) No money remittance, foreign exchange bureau , digital credit provider , director, officer, employer, agent or any other person shall violate or fail to comply with any provision of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ), or any regulation, guideline, rule, direction or instruction issued under the said Act or under this section. (2) A person who violates or fails to comply with the provisions of subsection (1) shall be liable— (a) in case of a legal person, to a penalty not exceeding five million shillings; (b) in the case of a natural person, to a penalty not exceeding one million shillings; and (c) to additional penalties not exceeding one hundred thousand shillings in each case for each day or part thereof during which such violation or non-compliance continues. [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s51C",
+      "chapter": "Part IX",
+      "section": "51C",
+      "title": "Rights and fundamental freedoms",
+      "content": "All persons subject to this Act shall enjoy all rights and fundamental freedoms enshrined in the Constitution unless limited to the extent specified in Article 24 of the Constitution, this Act or any other Act. [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s51D",
+      "chapter": "Part IX",
+      "section": "51D",
+      "title": "Limitation of right to privacy",
+      "content": "(1) The right to privacy guaranteed under Article 31 of the Constitution is hereby limited under Article 24 of the Constitution only to the nature and extent contemplated under subsection (2) . (2) Where a person is suspected or accused of an offence under this Act — (a) the person’s home or property may, with a warrant be searched; (b) the person’s possessions may be seized; (c) information relating to that person’s financial, family or private affairs where required may be revealed; or (d) the privacy of a person’s communications may be investigated or otherwise interfered with. (3) A limitation of a right under subsection (1) shall apply only for the purpose of the prevention, detection, investigation and prosecution of proceeds of crime, money laundering and financing of terrorism. [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Prohibited operations",
+      "content": "The Bank shall not— (a) save as expressly authorized by this Act, engage in trade, or own or acquire any direct interest in any commercial, agricultural, industrial or similar undertaking, except in the course of obtaining satisfaction for any debt due to the Bank , and any such interest shall be disposed of at the earliest suitable opportunity; (b) purchase, acquire or lease immovable property for commercial purposes or as an investment except for its own business requirements or for the use of its employees; (c) draw or accept bills payable otherwise than on demand; or (d) guarantee any loan, advance or investment."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Financial year",
+      "content": "The financial year of the Bank shall be the same as the Government’s financial year and the accounts of the Bank shall be closed at the end of each financial year."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Annual reports",
+      "content": "Within three months after the close of each financial year the Bank shall submit to the Cabinet Secretary a report on the Bank ’s operations throughout that year, together with the balance sheet and the profit and loss account as certified by auditors appointed by the Bank and approved by the Cabinet Secretary ."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Auditor-General",
+      "content": "The Cabinet Secretary may, in addition to the audit carried out under section 54 , if he thinks fit, require the Auditor-General to audit the accounts of the Bank."
+    },
+    {
+      "provision_ref": "s56A",
+      "chapter": "Part IX",
+      "section": "56A",
+      "title": "General Penalty",
+      "content": "A person convicted of an offence under this Act for which no other penalty is provided shall be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding three years, or to both. [Act No. 8 of 2009 , s. 64.]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Transitional",
+      "content": "(1) Any Regulations required to be made under this Act, to give effect to the provisions on digital lending, shall be made within three months of the coming into force of this Act. (2) Any person who before the coming into force of this Act was in digital credit business and is not regulated under any other law, shall apply for a licence in accordance with section 33S , within six months of publication of the regulations under subsection (1) . (3) Any person who, before the coming into force of sections 33V , 33W , 33X and 33Y was carrying on credit guarantee business and is not regulated under any other law, shall apply for registration and a licence in accordance with sections 33W and 33X , within five years after the commencement of sections 33V , 33W , 33X and 33Y . (4) Despite subsection (3) , any person who, before the coming into force of sections 33V , 33W , 33X and 33Y , was carrying on credit guarantee business and wishes to apply for registration and a licence under sections 33W and 33Y , may only do so after satisfying the Bank of compliance with the provisions of sections 33V , 33W , 33X and 33Y . [Act No. 15 of 2021 , s. 7, Act No. 20 of 2024 , s. 12.] SCHEDULE SPENT ▲ To the top History of this document 04 November 2025 this version Amended by Virtual Asset Service Providers Act 27 December 2024 Amended by Business Laws (Amendment) Act, 2024 Read this version 15 September 2023 Amended by Anti-Money Laundering and Combating of Terrorism Financing Laws (Amendment) Act, 2023 Read this version 31 December 2022 Revised by 24th Annual Supplement Read this version 23 December 2021 Amended by Central Bank of Kenya (Amendment) Act, 2021 Read this version 01 October 2018 Amended by Finance Act, 2018 01 July 2018 Amended by Finance Act, 2018 01 October 2015 Amended by Finance Act, 2015 11 December 2013 Amended by Microfinance (Amendment) Act, 2013 09 January 2013 Amended by Finance Act, 2012 09 November 2012 Amended by Central Bank of Kenya (Amendment) Act, 2012 02 May 2012 Amended by Finance Act, 2012 01 January 2012 Amended by Finance Act, 2012 01 January 2011 Amended by Finance Act, 2010 11 June 2010 Amended by Finance Act, 2010 01 January 2010 Amended by Finance Act, 2009 01 January 2009 Amended by Finance Act, 2008 01 January 2008 Amended by Finance Act, 2007 15 June 2007 Amended by Finance Act, 2007 01 January 2007 Amended by Finance Act, 2006 09 November 2006 Amended by Finance Act, 2006 01 August 2005 Amended by Central Bank of Kenya (Amendment) Act, 2004 01 July 2003 Amended by Finance Act, 2003 01 January 2001 Amended by Central Bank of Kenya (Amendment) Act, 2000 18 April 1997 Amended by Central Bank of Kenya (Amendment) Act, 1996 27 December 1995 Amended by Central Bank of Kenya (Amendment) Act, 1995 16 June 1995 Amended by Finance Act, 1995 29 December 1989 Amended by Statute Law (Miscellaneous Amendments) Act, 1989 01 November 1989 Amended by Banking Act 05 September 1986 Amended by Revision of Laws (Rectification Order), 1986 14 September 1984 Amended by Statute Law (Repeals and Miscellaneous Amendments) Act, 1984 18 June 1982 Amended by Finance Act (No. 3),1982 Read this version 15 August 1980 Amended by Finance Act, 1980 Read this version 10 November 1978 Amended by Statute Law (Miscellaneous Amendments) Act, 1978 Read this version 17 November 1972 Amended by Statute Law (Miscellaneous Amendments) Act, 1972 Read this version 03 June 1969 Amended by Banking Act Read this version 23 May 1966 Commenced 29 March 1966 Published in Kenya Gazette 13 Commenced 24 March 1966 Assented to Related documents Amends Interpretation and General Provisions Act Penal Code Is amended by 24th Annual Supplement Banking Act Business Laws (Amendment) Act, 2024 Finance Act, 2003 Finance Act, 2006 Finance Act, 2009 Finance Act, 2012 Finance Act, 2018 Virtual Asset Service Providers Act Cited documents 13 Act 13 1. Companies Act 2215 citations 2. County Governments Act 1918 citations 3. Banking Act 520 citations 4. Proceeds of Crime and Anti-Money Laundering Act 432 citations 5. Stamp Duty Act 219 citations 6. Data Protection Act 174 citations 7. Consumer Protection Act 142 citations 8. Capital Markets Act 124 citations 9. Microfinance Act 76 citations 10. Hire-Purchase Act 15 citations More... Documents citing this one 92 Judgment 72 1. Muiruri (Being the administrator of the Estate of the Late Joseph Muiruri Gachoka - Deceased) v Bank of Baroda (Kenya) Ltd (Civil Appeal 282 of 2004) [2014] KECA 319 (KLR) (10 October 2014) (Judgment) 53 citations 2. Outa & another v Okello & 5 others (Petition 10 of 2014) [2014] KESC 20 (KLR) (3 July 2014) (Judgment) 20 citations 3. Kenya Revenue Authority v Murgani (Civil Appeal 108 of 2009) [2010] KECA 508 (KLR) (16 July 2010) (Judgment) 15 citations 4. Okutoyi (Suing on his own behalf and on behalf of and representing and for the benefit of all past and present customers of banking institutions in Kenya) v Olaka – Executive Director (Secretary) of the Kenya Bankers Association Being sued on behalf of Kenya Bankers Association) & another (Petition 457 of 2015) [2018] KEHC 8918 (KLR) (Constitutional and Human Rights) (25 January 2018) (Judgment) 14 citations 5. Momentum Credit Limited v Kabuiya (Civil Appeal E035 of 2022) [2022] KEHC 13705 (KLR) (Commercial and Tax) (7 October 2022) (Judgment) Interpreted 8 citations 6. Mbugua & another v Central Bank of Kenya & 2 others (Petition 210 & 214 of 2019 (Consolidated)) [2019] KEHC 4223 (KLR) (Constitutional and Human Rights) (27 September 2019) (Judgment) 6 citations 7. Imperial Bank Limited (In Receivership) & another v Popat & 18 others (Civil Appeal E395 of 2017) [2025] KECA 1013 (KLR) (30 May 2025) (Judgment) 5 citations 8. Muslims for Human Rights (MUHURI) & another v Inspector-General of Police & 5 others; Katiba Institute & another (Amicus Curiae) (Petition 19 of 2015) [2015] KEHC 1165 (KLR) (12 November 2015) (Judgment) 5 citations 9. Stanbic Bank Kenya Ltd v Santowels Ltd (Petition E005 of 2023) [2024] KESC 31 (KLR) (28 June 2024) (Judgment) Cited 5 citations 10. Kenya Akiba Micro Finance Limited v Chebii & 14 others (Civil Suit 644 of 2005) [2022] KEHC 202 (KLR) (11 March 2022) (Judgment) Interpreted 4 citations More... Act 13 1. Income Tax Act 1053 citations 2. Penal Code 621 citations 3. Banking Act 520 citations 4. State Corporations Act 246 citations 5. Excise Duty Act 190 citations 6. Kenya Deposit Insurance Act 140 citations 7. Sacco Societies Act 121 citations 8. Microfinance Act 76 citations 9. Special Economic Zones Act 40 citations 10. Building Societies Act 24 citations More... Legal Notice 6 1. The Public Finance Management (National Government) Regulations 6 citations 2. The Statutory Instruments (Exemption from Expiry) Regulations 1 citation 3. The Central Bank of Kenya (Currency Handling) Regulations, 2008 4. The Money Remittance Regulations 5. The National Payment System Regulations 6. The Statutory Instruments (Exemption from Expiry) Regulations Gazette 1 1. Kenya Gazette Vol. LXVIII-No. 61 Subsidiary legislation Title The Central Bank of Kenya (Mortgage Refinance Companies) Regulations, 2019 Legal Notice 134 of 2019 Description of New Issue of Fifty, One Hundred, Two Hundred, Five Hundred and One Thousand Shillings Kenya Currency Notes Legal Notice 72 of 2019 Description of New Issue of One Shilling, Five Shillings, Ten Shillings and Twenty Shillings Coins Legal Notice 235 of 2018 Specification of Institution Legal Notice 136 of 2016 The Money Remittance Regulations Legal Notice 66 of 2013 The Central Bank of Kenya (Currency Handling) Regulations Legal Notice 19 of 2011 The Central Bank of Kenya (Foreign Exchange Bureau) (Penalties) Regulations Legal Notice 82 of 2009 The Central Bank of Kenya (Foreign Exchange Business) Regulations, 2007 Legal Notice 62 of 2007 The Central Bank of Kenya Act- Description of New Issue of Five Cents, Ten Cents, Fifty Cents, One Shilling, Five Shillings, Ten Shillings and Twenty Shillings Coins, 2005 Legal Notice 40 of 2005 The Central Bank of Kenya Act- Description of New Issue of Fifty, One Hundred, Two Hundred, Five Hundred and One Thousand Shillings Currency Notes Legal Notice 13 of 2004 The Central Bank of Kenya Act- Description of New issue of Forty Shillings Coin and Two Hundred Shillings Note, 2003 Legal Notice 210 of 2003 The Central Bank of Kenya Act- Description of New Issue of Commemorative Gold and Silver Coins, 2003 Legal Notice 209 of 2003 Specified Banks and Financial Institutions Legal Notice 143 of 2003 The Central Bank of Kenya Act- Description of New issue of Fifty, Five Hundred and One Thousand Shillings Currency Notes, 2003 Legal Notice 58 of 2003 The Central Bank of Kenya Act- Description of New Issue of Twenty Shillings Coin, 1999 Legal Notice 13 of 1999 The Central Bank of Kenya (Declaration of Currency) Regulations Legal Notice 118 of 1998 The Central Bank of Kenya Act- Description of New Issue of Five Hundred and One Thousand Shillings Notes, 1998 Legal Notice 88 of 1998 The Central Bank of Kenya Act- Description of New Issue of One Hundred and Two Hundred Shillings Notes, 1996 Legal Notice 300 of 1996 The Central Bank of Kenya Act- Description of New Issue of Fifty Shillings Note, 1996 Legal Notice 59 of 1996 The Central Bank of Kenya Act- Description of New Issue of Ten Cents Coin, 1996 Legal Notice 57 of 1996 The Central Bank of Kenya Act- Description of New Issue of Five Hundred Shillings Note, 1995 Legal Notice 363 of 1995 The Central Bank of Kenya Act- Description of New Issue of Twenty Shillings Note, 1995 Legal Notice 362 of 1995 The Central Bank of Kenya Act- Description of New Issue of Fifty Cents, One Shilling and Five Shillings Coins, 1995 Legal Notice 293 of 1995 The Central Bank of Kenya Act- Description of New One Thousand Shillings Note, 1995 Legal Notice 17 of 1995 The Central Bank of Kenya Act- Determination, 1994 Legal Notice 160 of 1994 The Central Bank of Kenya Act- Description of New Twenty Shillings Note, 1994 Legal Notice 144 of 1994 The Central Bank of Kenya Act- Description of the Central Bank of Kenya&#x27;s Silver Jubilee Commemorative Coins, 1991 Legal Notice 543 of 1991 Regulation of Interest Rates and Terms of Credit of Specified Banks and Specified Financial Institutions Gazette Notice 1617 of 1990 The Central Bank of Kenya Act- Description of New Issue of Fifty Shillings Note, 1990 Legal Notice 505 of 1990 The Central Bank of Kenya Act- Increase in Capital, 1989 Legal Notice 408 of 1989 The Central Bank of Kenya Act- Description of Ten and One Hundred Shillings Note, 1989 Legal Notice 334 of 1989 Waiver Legal Notice 371 of 1986 The Central Bank of Kenya Act- Description of the Central Bank of Kenya&#x27;s 20th Anniversary Commemorative Coins, 1986 Legal Notice 311 of 1986 The Central Bank of Kenya Act- Description of New Issue of Two Hundred Shillings Note, 1986 Legal Notice 242 of 1986 The Central Bank of Kenya Act- Description of New Issue of Shillings Coin, 1985 Legal Notice 232 of 1985 The Central Bank of Kenya- Description of New Kenya Currency Notes and Coins, 1980 Legal Notice 165 of 1980 The Central Bank of Kenya- Description of New Issue of Commemorative Gold and Silver Coins, 1979 Legal Notice 259 of 1979 The Central Bank of Kenya- Description of Bank Notes, 1979 Legal Notice 258 of 1979 Specified Public Entities under Section 2 Legal Notice 138 of 1979 The Central Bank of Kenya Act- Withdrawal of Bank Notes, 1974 Legal Notice 307 of 1974 The Central Bank of Kenya Act- Description of New Issue of Bank Notes, 1974 Legal Notice 306 of 1974 Central Bank of Kenya Act- Description of New Coin, 1973 Legal Notice 225 of 1973 Determination of Par Value of the Kenyan Shilling, 1973 Legal Notice 35 of 1973 The Central Bank of Kenya Act- Withdrawal of East African Shillings, 1972 Legal Notice 233 of 1972 The Central Bank of Kenya Act- Determination as to the Par Value of the Kenya Shilling Legal Notice 297 of 1971 lnstructions to Specified Financial lnstitutions Legal Notice 160"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,176 @@
+{
+  "id": "national-payment-system-act-2011",
+  "type": "statute",
+  "title": "National Payment System Act 2011",
+  "title_en": "National Payment System Act 2011",
+  "short_name": "NPS Act",
+  "status": "in_force",
+  "issued_date": "2011-12-31",
+  "in_force_date": "2011-12-31",
+  "url": "https://new.kenyalaw.org/akn/ke/act/2011/39/",
+  "description": "Regulation of payment systems including mobile money (M-Pesa)",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the National Payment System Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \"bank\" has the meaning assigned to it in the Banking Act ( Cap. 488 ); “beneficial owner\" has the meaning assigned to it under the Companies Act ( Cap. 486 ); \"business day\" me ans any day, other than a Sunday, a public holiday declared in accordance with the Public Holidays Act ( Cap. 110 ), a day declared to be a bank holiday under the Banking Act ( Cap. 488 ), or a day declared to be a bank holiday under the Microfinance Act ( Cap. 493C ), on which the institutions and the Central Bank are open to the public for carrying on business functions; \"Cabinet Secretary\" means the Cabinet Secretary for the time being responsible for matters relating to finance; \"Central Bank\" means the Central Bank of Kenya established under the Central Bank of Kenya Act ( Cap. 491 ); \"Central Bank of Kenya settlement system\" means a settlement system established and operated by, or under the control of, the Central Bank ; \"Central Bank of Kenya settlement system participant\" means— (a) the Central Bank ; (b) a bank , an institution or a branch of a foreign institution ; or (c) a designated payment system operator , that participates in the Central Bank of Kenya settlement system . \"clear\" means the exchange of payment instructions, and \"clearing\" shall be construed accordingly; \"clearing, netting and settlement agreements\" means written agreements with regard to clearing, netting or settlement concluded between the Central Bank of Kenya settlement system participants or settlement system participants; \"designated payment instrument\" means a payment instrument designated in accordance with section 6 ; \"designated payment system\" means a payment system designated in accordance with section 3 ; \"designated payment system operator\" means an operator of a designated payment system ; \"designated payment system participant\" means a person who is— (a) a participant in a designated payment system ; or (b) a designated payment system operator ; \"failure to settle\" means the inability of a settlement system participant to meet its settlement obligations in a clearing house; \"institution\" means a bank , mortgage finance company or a financial institution as defined in the Banking Act ( Cap. 488 ) or a microfinance bank business as defined in the Microfinance Act ( Cap. 493C ) or any other body which the Cabinet Secretary may, in consultation with the Central Bank , declare, by notice in the Gazette , to be an institution for the purposes of this Act; \"netting\" means the determination of the net payment obligations between two or more settlement system participants within a payment clearing house or the determination of the net settlement obligations between two or more settlement system participants within a settlement system ; \"payment clearing house\" means an arrangement between two or more Central Bank settlement system participants, excluding a designated payment system operator , governing the clearing of payment instructions between those Central Bank settlement system participants; \"payment clearing house system operator\" means a person , other than a designated payment system operator , who clears on behalf of any two or more Central Bank settlement system participants; \"payment instrument\" means any instrument, whether tangible or intangible, that enables a person to obtain money, goods or services, or to otherwise make payment; \"payment instruction\" means an instruction to a settlement system participant to transfer funds or make a payment; \"payment obligation\" means an indebtedness that is owed by one settlement system participant to another as a result of the clearing of one or more payment instructions; \"payment service provider\" means— (i) a person , company or organisation acting as provider in relation to sending, receiving, storing or processing of payments or the provision of other services in relation to payment services through any electronic system; (ii) a person , company or organisation which owns, possesses, operates, manages or controls a public switched network for the provision of payment services; or (iii) any other person , company or organization that processes or stores data on behalf of such payment service providers or users of such payment services; \"payment system\" means a system or arrangement that enables payments to be effected between a payer and a beneficiary, or facilitates the circulation of money, and includes any instruments and procedures that relate to the system; \"payment system management body\" means a body recognized by the Central Bank in accordance with section 7 ; \"person\" includes any legal entity including a trust; \"reporting institution\" has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ); \"settlement\" means discharge of settlement obligations; \"settlement instruction\" means an instruction given to a settlement system by a settlement system participant or by a payment clearing house system operator on behalf of a Central Bank settlement system participant to effect settlement of one or more payment obligations, or to discharge any other obligation of one system participant to another system participant; \"settlement obligation\" means an indebtedness that is owed by one settlement system participant to another as a result of one or more settlement instructions; “significant shareholder” has the meaning assigned to it under the Banking Act ( Cap. 488 ); \"system operator\" means a person , other than a designated payment system operator , authorized in terms of section 8 (2)(c) to provide services to any two or more persons in respect of payment instructions; \"settlement system\" means a system established and operated by the Central Bank for the discharge of payment or settlement obligations, or the discharge of payment and settlement obligations, between system participants in that system; \"settlement system participant\" means— (a) a Central Bank of Kenya settlement system participant ; or (b) a designated payment system participant ; and \"systemic risk\" means the risk that failure of one or more settlement system participants, for whatever reason, to meet their payment obligations or their settlement obligations may result in any or all of the other settlement system participants being unable to meet their respective payment or settlement obligations. [Act No. 41 of 2013 , Sch, Act No. 19 of 2015 , s. 167, Act No. 20 of 2025 ,2nd Sch.] Part II – PROVISIONS ON DESIGNATION"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Clearing provisions",
+      "content": "(1) A person shall not clear payment instructions unless that person is— (a) a Central Bank settlement system participant ; or (b) a bank , an institution or a branch of a foreign institution that is allowed to clear in terms of section 8 (2)(d)(i). (2) A person who contravenes the provisions of subsection (1) commits an offence and shall be liable, on conviction, to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding three years, or both."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Payments to third parties",
+      "content": "A person may, as a regular feature of that person ’s business, accept money or payment instructions from any other person for purposes of making payment on behalf of that other person to whom that payment is due, if— (a) the first-mentioned person is the Central Bank , a bank , an institution or a branch of a foreign institution , a payment service provider or a designated payment system operator ; or (b) the first-mentioned person is the Postal Corporation of Kenya established under the Postal Corporation of Kenya Act ( Cap. 411 ), the Kenya Post Office Savings Bank established under the Kenya Post Office Savings Bank Act ( Cap. 493B ), a building society established under the Building Societies Act ( Cap. 489 ); and (c) the money is accepted or payment is made in accordance with directives issued by the Central Bank from time to time in accordance with section 22 ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Authorisation of Payment Service Provider",
+      "content": "(1) No person shall, in Kenya conduct the business of a payment service provider except an authorized payment service provider . (2) A person who contravenes the provisions of subsection (1) commits an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand shillings, or to imprisonment for a term not exceeding three years, or to both."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Application for authorisation",
+      "content": "(1) A person proposing to transact the business of a payment service provider shall, before commencing such business, apply to the Bank for authorization. (2) An application under this section shall be made in the prescribed form and shall be forwarded to the Bank together with the prescribed fee. (3) In considering an application for authorization, the Bank may require to be satisfied as to the financial condition and history of the applicant, the character of its management, the adequacy of its capital structure and the convenience and needs of the area to be served and the public interest which will be served by granting of the authorisation. (4) The Bank may, subject to the payment of the prescribed fee and to such conditions as it may consider necessary, grant authorization to the applicant. (5) Where authorization has been granted under this section, the Bank may add, vary, or substitute conditions attached thereto. (6) An authorisation issued under this section shall, unless earlier revoked, be valid for twelve months next following the date of issue: Provided that where an application for its renewal is made under this section, the authorisation shall be deemed to continue in force until the application for renewal is determined."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Renewal of authorisation",
+      "content": "(1) An authorisation made under section 13 may on expiry be renewed for a further period of twelve months: Provided that where an authorised payment service provider fails to commence business in Kenya within six months of the grant of authorisation, the authorized payment service provider shall, if still intending to conduct payment service business in Kenya, apply for authorization as if the first authorisation had never been granted. (2) An application for the renewal of an authorization shall— (a) be made in the prescribed form and forwarded to the Bank together with the prescribed fee; (b) be lodged with the Bank at least two months prior to the expiry of the authorisation. (3) An application for renewal of an authorization shall be considered in accordance with the provisions of section 13 ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Revocation of authorisation",
+      "content": "(1) Subject to subsection (2) , the Bank may, by notice in writing to an authorised payment service provider , revoke or suspend an authorisation for such period as it may specify, if the authorised payment service provider — (a) ceases to carry on business in Kenya or goes into liquidation or is wound up, or is otherwise dissolved; (b) fails to comply with the provisions of this Act or any condition attached to an authorisation; or (c) conducts business in a manner detrimental to the best interests of the public. (2) Before revoking or suspending an authorization under this section, the Bank shall give an authorized payment service provider , not less than fourteen days notice in writing and shall consider any representations made to it in writing by the authorised payment service provider within that period."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Netting agreements and rules",
+      "content": "(1) To the extent that a provision of the Insolvency Act ( Cap. 53 ), the Banking Act ( Cap. 488 ) the Building Societies Act ( Cap. 489 ) the Co-operative Societies Act ( Cap. 490 ) or the Microfinance Act ( Cap. 493C ) is inconsistent with this section, this section prevails. (2) This section applies to the following agreements and rules relating to a settlement system participant — (a) a written netting agreement to which the participant is a party; (b) the settlement system rules; (c) a clearing, netting or settlement agreement to which the participant is a party; (d) netting rules applicable to the participant in relation to a settlement agreement. (3) If a settlement system participant is placed in liquidation by the High Court, enters administration or is placed under statutory management, any provision contained in an agreement or rules to which this section applies is binding on the liquidator, administrator or statutory manager in respect of a payment or settlement obligation - (a) that was determined through netting before the liquidation order or administration order, or the appointment of the statutory manager, was made but is to be discharged on or after the date on which the order or appointment was made; or (b) the discharge of which was overdue on that date. (4) An administrator appointed under the Insolvency Act ( Cap. 53 ), in respect of a settlement system participant shall give written notice to the Central Bank to withdraw the participant's participation from the Central Bank settlement system , in which case the participant ceases to be entitled to participate in that system, other than for purposes of— (a) discharging a payment or settlement obligation in accordance with the settlement system rules; (b) any clearing, netting or settlement agreement to which the participant was a party; or (c) any netting rules applicable to the participant in relation to those agreements. (5) As soon as practicable after an application to the High Court for the liquidation of a settlement system participant is made and, if a liquidation order is made in consequence of the application, as soon as practicable after the order is made, the applicant shall lodge with the Central Bank a copy of the application and a copy of the order. (6) As soon as practicable after receiving a copy of an application for the liquidation of a settlement system participant , the Central Bank shall, if the participant is a designated payment system participant , notify the operator of the payment system of the application. (7) When a copy of a liquidation order relating to a settlement system participant has been lodged with the Central Bank in accordance with subsection (5) , the participant ceases to be entitled to clear payments or participate in a settlement system , other than for purposes of discharging a payment or settlement obligation in accordance with— (a) the rules of the settlement system ; or (b) a clearing, netting or settlement agreement to which the participant is a party; or (c) any netting rules applicable to the participant in relation to such an agreement. (8) When a settlement system participant is placed in liquidation or enters administration, or a statutory manager is appointed in respect of the participant, the liquidator, administrator or manager is bound by any payment or settlement that is final and irrevocable as provided by section 9 (2) or (3). (9) A court in Kenya may not recognise or give effect to— (a) an order of a court exercising jurisdiction under the law relating to insolvency in a place outside Kenya; or (b) an act of a person appointed in a place outside Kenya to perform functions under that law, to the extent that this Act does not authorise a court in Kenya to make such an order, or a liquidator, administrator or statutory manager, or any other officer having functions under the Insolvency Act ( Cap. 53 ), to do such an act. (10) In this section, a reference to netting rules includes any recognised practices relating to the operation or application of those rules. [Act No. 19 of 2015 , s. 168.] Part IV – PROVISIONS ON REGULATION AND SUPERVISION"
+    },
+    {
+      "provision_ref": "s17A",
+      "chapter": "Part IV",
+      "section": "17A",
+      "title": "Powers on anti-money laundering, combating the financing of terrorism and countering proliferation financing matters",
+      "content": "(1) Pursuant to section 2A , 36A , 36B and 36C of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ) and section 6 of the Virtual Asset Service Providers Act , the Central Bank shall regulate, supervise and enforce compliance for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes by all reporting institutions regulated and supervised by the Central Bank to whom the provisions of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ). (2) In undertaking its mandate under subsection (1) , the Central Bank may— (a) vet proposed significant shareholders, proposed beneficial owners, proposed directors and senior officers of a reporting institution ; (b) conduct onsite inspection; (c) conduct offsite surveillance; (d) undertake consolidated supervision of an institution and its group; (e) compel the production of any document or information the Central Bank may require for the purpose of discharging its supervisory mandate under Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ); (f) impose monetary, civil or administrative sanctions for violations related to anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes; (g) issue regulations, guidelines, directions, rules or instructions for anti-money laundering, combating the financing of terrorism or countering proliferation financing purposes; (h) cooperate and share information for anti-money laundering, combating the financing of terrorism and countering proliferation financing purposes; and (i) take such action as is necessary to supervise and enforce compliance by reporting institutions in line with the provisions of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ) and any regulations, guidelines, rules, instruction or direction made or issued thereunder. (3) For purposes of this section, “reporting institution ” has the meaning assigned to it under section 2 of the Proceeds of Crime and Anti-Money Laundering Act ( Cap. 59A ). [Act No. 10 of 2023 , Sch, Act No. 20 of 2025 , 2nd Sch.]"
+    },
+    {
+      "provision_ref": "s17B",
+      "chapter": "Part IV",
+      "section": "17B",
+      "title": "Penalties for violations relating to money laundering, terrorism financing",
+      "content": "(1) No payment service provider , director, officer, employer, agent or any other person shall violate or fail to comply with any provision of the Proceeds of Crime and Anti-Money Laundering Act, 2009 , or any regulation, guideline, rule, direction or instruction issued under the said Act or under section 17A of this Act. (2) A person who violates or fails to comply with the provisions of subsection (1) shall be liable— (a) in case of a legal person , to a penalty not exceeding twenty million shillings; (b) in the case of a natural person , to a penalty not exceeding one million shillings; and (c) to additional penalties not exceeding one hundred thousand shillings in each case for each day or part thereof during which such violation or non-compliance continues. [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s17C",
+      "chapter": "Part IV",
+      "section": "17C",
+      "title": "Rights and fundamental freedoms",
+      "content": "All persons subject to this Act shall enjoy all rights and fundamental freedoms enshrined in the Constitution unless limited to the extent specified in Article 24 of the Constitution, this Act or any other Act. [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s17D",
+      "chapter": "Part IV",
+      "section": "17D",
+      "title": "Limitation of right to privacy",
+      "content": "(1) The right to privacy guaranteed under Article 31 of the Constitution is hereby limited under Article 24 of the Constitution only to the nature and extent contemplated under subsection (2) . (2) Where a person is suspected or accused of an offence under this Act— (a) the person ’s home or property may, with a warrant, be searched; (b) the person ’s possessions may be seized; (c) information relating to that person ’s financial, family or private affairs where required may be revealed to the relevant authorities; or (d) the privacy of a person ’s communications may be investigated or otherwise interfered with. (3) A limitation of a right under subsection (1) shall apply only for the purpose of the prevention, detection, investigation and prosecution of proceeds of crime, money laundering and financing of terrorism. [Act No. 10 of 2023 , Sch.]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Prohibition of issuance of payment instruments",
+      "content": "(1) The Central Bank may, by order in the Gazette , prohibit any person from issuing or using any payment instrument if— (a) the issuing or use of the payment instrument is detrimental to the reliable, safe, efficient and smooth operation of a national payment system ; or (b) the prohibition is in the interest of the public. (2) The Central Bank may, in considering whether to prohibit any person from issuing or using any payment instrument under subsection (1) , inspect the premises, equipment, machinery, apparatus, books or other documents, or accounts and transactions of the issuer or user of the payment instrument , upon giving reasonable written notice to the issuer or user. (3) The Central Bank shall, before issuing an order of prohibition under subsection (1) , offer the issuer or user of a payment instrument a reasonable opportunity to make representations on the impending prohibition."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Settlement of disputes",
+      "content": "(1) If any Central Bank settlement system participant considers itself aggrieved by a decision taken by the Central Bank under any provision of this Act, the matter shall be deemed to constitute a dispute between that Central Bank settlement system participant and the Central Bank , which dispute shall be settled as provided in this section. (2) The Central Bank settlement system participant concerned shall, within ninety days after the decision of the Central Bank , in writing, furnish the Central Bank with full particulars of the grievance, and thereafter the Central Bank settlement system participant and the Central Bank shall endeavour to settle the dispute within seven business days of the receipt by the Central Bank of those particulars. (3) If the Central Bank settlement system participant and the Central Bank do not settle the dispute as provided for under subsection (2) , they shall refer the dispute to mediation within a further period of ten business days. (4) The following provisions shall apply to mediation under subsection 3 — (a) the Central Bank settlement system participant concerned and the Central Bank shall agree on a mediator; (b) the mediator shall familiarize himself with the position held by the Central Bank settlement system participant concerned and the Central Bank , respectively; (c) the mediator, the Central Bank settlement system participant concerned and the Central Bank shall discuss the dispute at a meeting attended by them all; (d) the Central Bank settlement system participant concerned and the Central Bank shall, at or following such meeting, and with the aid of the mediator, attempt to settle the dispute by consensus; and (e) the Central Bank settlement system participant concerned and the Central Bank shall share the mediator’s costs in such proportion as they may agree. (5) If the Central Bank settlement system participant concerned and the Central Bank are unable to settle the dispute by consensus in accordance with subsection (2) or (4) , the dispute shall be referred— (a) to a single arbitrator to be agreed upon by the Central Bank settlement system participant and the Central Bank ; or (b) failing such agreement, to an arbitrator appointed, at the request of the Central Bank settlement system participant or the Central Bank , by a recognised body concerned with the facilitation and promotion of the resolution of disputes by means of mediation or arbitration. (6) An arbitrator referred to in subsection (5) shall, as far as possible, be a person appointed on account of his knowledge of the law and payment systems. (7) The provisions of the Arbitration Act ( Cap. 49 ) or any revisions thereof, shall apply, mutatis mutandis , to an arbitration undertaken in accordance with subsection (5) . (8) The decision of the arbitrator shall be final and binding on the Central Bank settlement system participant concerned and the Central Bank ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Audits and inspection",
+      "content": "(1) The Central Bank shall, for the purposes of carrying out its functions under this Act, conduct audits and inspections of a designated payment system or of an issuer of a designated payment instrument . (2) Every designated payment system participant or the issuer of a designated payment instrument shall, as may be required by the Central Bank , assist the Central Bank to the extent necessary, to enable the Central Bank carry out an audit or inspection."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Reports",
+      "content": "The Central Bank shall prepare and submit to the Cabinet Secretary — (a) such reports as the Cabinet Secretary may require; and (b) such periodic reports, and at such intervals, as it considers appropriate, on the operations of every designated payment system or designated payment instrument . [Act No. 19 of 2015 , s. 169.] Part V – MISCELLANEOUS"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Retention of records",
+      "content": "(1) Notwithstanding anything to the contrary in any law relating to the retention of records, the Central Bank , the Central Bank settlement system participants, payment clearing house system operators and system operators, shall retain all records obtained by them during the course of the operations and administration of a payment system or the issuance of a payment instrument , for a period of seven years from the date of each particular record. (2) The retention of records under subsection (1) may be effected by electronic means."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Use of confidential information for personal gain",
+      "content": "(1) Subject to subsection (2) , if— (a) any officer or employee of the Central Bank ; or (b) any member or employee of a payment system management body , for his personal gain, makes use of any information which he has acquired in the performance of his functions under this Act, or under the constitution or rules of any designated payment system , and which relates to the affairs of a particular institution , he commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings, or imprisonment for a term not exceeding one year, or both. (2) It shall be a defence to a charge under subsection (1) for the person charged to show that the information which he used was generally known to members of the public or to a substantial section of the public."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Priority of certain instruments on winding up",
+      "content": "(1) In this section, \"priority payment instruction \" means a money order, bank draft or similar payment instruction issued, directly or indirectly, by a participant in a designated payment system , but does not include an instrument issued by one such participant to another for the purpose of effecting a payment between them. (2) Despite anything to the contrary in the Insolvency Act ( Cap. 53 ) and subject to this section, if a participant in a designated payment system is a company that is liquidated under the Insolvency Act ( Cap. 53 ), unpaid priority payment instructions that were drawn on the participant and cleared through the payment system before the making of the liquidation order- (a) are payable from the participant's assets; and (b) rank in preference above any other unsecured claim against the assets. (3) A payment is not payable under subsection (2) in preference to any other claim against assets unless a request for the payment has been made within sixty days after the making of the liquidation order in relation to the participant concerned. (4) Subsection (2) does not permit a payment instruction to be settled in preference to any other claim against any assets, if the instruction was drawn on or certified or issued by the participant concerned with a view to giving the drawee of the instruction a preference over the participant's other creditors. [Act No. 19 of 2015 , s. 171.]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Misleading advertisements",
+      "content": "(1) Any person who issues an advertisement, brochure, circular or in any way makes representations inviting any person to participate in a payment system or in the issuance and usage of a payment instrument which— (a) falsely represents that he is designated to operate the payment system or issue the payment instrument under the provisions of this Act; (b) falsely represents that he is recognised to manage a payment system under the provisions of this Act; or (c) is issued contrary to the provisions of this Act, commits an offence and is liable on conviction to a fine not exceeding five hundred thousand shillings or imprisonment for a term not exceeding one year, or both. (2) The Central Bank may at any time direct any person to withdraw, amend or refrain from issuing any advertisement, brochure, circular or making or desist from making any other representation relating to participation in the payment system or issuance of a payment instrument , which in its sole discretion, it considers to be misleading."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Relief from prosecution",
+      "content": "No action shall lie against the Central Bank or any of its officers or other persons appointed or authorized to perform any function under this Act, in respect of anything done or omitted to be done by him in good faith in the exercise or performance of any power, authority, or function conferred or imposed on him under this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Regulations and guidelines",
+      "content": "(1) The Cabinet Secretary may make regulations generally for the better carrying into effect the provisions of this Act. (2) The Central Bank may— (a) prescribe anything which under this Act may be prescribed; (b) subject to this Act, issue guidelines in respect of any matter relating to the administration or enforcement of this Act; and (c) prescribe monetary fines for payment system operators, issuers of payment instruments or authorized payment service providers, which shall not exceed one million shillings. [Act No. 19 of 2015 , s. 170.]"
+    }
+  ],
+  "definitions": []
+}
