@@ -6,12 +6,12 @@ jurisdiction: "KE"
 sources:
   - name: "Kenya Law (National Council for Law Reporting)"
     authority: "National Council for Law Reporting (Kenya Law)"
-    official_portal: "http://kenyalaw.org"
-    canonical_identifier: "N/A (Kenya legislation identified by Act title + year; no standardized URI scheme)"
-    retrieval_method: "HTML_SCRAPE"
-    api_documentation: "http://kenyalaw.org/kl/index.php?id=702 (limited API endpoints available for some datasets)"
+    official_portal: "https://new.kenyalaw.org"
+    canonical_identifier: "AKN URI (e.g. /akn/ke/act/2019/24/ for Data Protection Act)"
+    retrieval_method: "AKN_HTML"
+    api_documentation: "https://new.kenyalaw.org/legislation/ (Akoma Ntoso structured HTML)"
     update_frequency: "weekly"
-    last_ingested: "PENDING_FIRST_INGEST"
+    last_ingested: "2026-02-19"
     license_or_terms:
       type: "Government Open Data"
       url: "http://kenyalaw.org/kl/index.php?id=702"
@@ -45,7 +45,7 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "PENDING_FIRST_INGEST"
+  last_verified: "2026-02-19"
 
 # Notes:
 # - Kenya Law (kenyalaw.org) is the official publication platform operated by the
@@ -59,5 +59,7 @@ data_freshness:
 # - Kenya uses a common law legal system inherited from British colonial administration
 # - The legal language is English (official), with Swahili (national) used in some
 #   government documents and gazette notices
-# - Kenya Law has a reasonably structured web interface; some JSON/API endpoints exist
-#   for specific datasets but coverage is inconsistent
+# - The new Kenya Law platform (new.kenyalaw.org) provides Akoma Ntoso (AKN) structured
+#   HTML with semantic section markup, making automated extraction reliable
+# - AKN URIs follow the pattern: /akn/ke/act/{year}/{number}/
+# - Legacy site (kenyalaw.org/kl/) still serves PDFs; new site serves structured HTML

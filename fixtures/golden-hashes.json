@@ -6,49 +6,49 @@
   "provisions": [
     {
       "id": "ke-hash-001",
-      "description": "Constitution of Kenya (2010), Article 1 — sovereignty of the people and supremacy of the Constitution",
-      "upstream_url": "http://kenyalaw.org/kl/index.php?id=398",
-      "selector_hint": "Article 1 - Sovereignty of the people",
+      "description": "Constitution of Kenya (2010), Section 1 — sovereignty of the people and supremacy of the Constitution",
+      "upstream_url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution/",
+      "selector_hint": "section#chp_ONE__sec_1",
       "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
       "expected_snippet": "All sovereign power belongs to the people of Kenya"
     },
     {
       "id": "ke-hash-002",
-      "description": "Constitution of Kenya (2010), Article 31 — right to privacy including the right not to have information relating to family or private affairs unnecessarily disclosed",
-      "upstream_url": "http://kenyalaw.org/kl/index.php?id=398",
-      "selector_hint": "Article 31 - Privacy",
+      "description": "Constitution of Kenya (2010), Section 31 — right to privacy including the right not to have information relating to family or private affairs unnecessarily disclosed",
+      "upstream_url": "https://new.kenyalaw.org/akn/ke/act/2010/constitution/",
+      "selector_hint": "section#chp_Four__part_2__sec_31",
       "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
       "expected_snippet": "Every person has the right to privacy"
     },
     {
       "id": "ke-hash-003",
       "description": "Data Protection Act 2019, Section 2 — interpretation and definitions of key terms including personal data, data subject, data controller, and data processor",
-      "upstream_url": "http://kenyalaw.org/kl/index.php?id=8887",
-      "selector_hint": "Section 2 - Interpretation",
+      "upstream_url": "https://new.kenyalaw.org/akn/ke/act/2019/24/",
+      "selector_hint": "section#part_I__sec_2",
       "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
       "expected_snippet": "personal data"
     },
     {
       "id": "ke-hash-004",
       "description": "Computer Misuse and Cybercrimes Act 2018, Section 2 — interpretation and definitions for computer systems, data, and cybercrime offences",
-      "upstream_url": "http://kenyalaw.org/kl/index.php?id=8470",
-      "selector_hint": "Section 2 - Interpretation",
+      "upstream_url": "https://new.kenyalaw.org/akn/ke/act/2018/5/",
+      "selector_hint": "section#part_I__sec_2",
       "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
       "expected_snippet": "computer"
     },
     {
       "id": "ke-hash-005",
       "description": "Companies Act 2015, Section 2 — interpretation and definitions for company types, directors, and corporate governance",
-      "upstream_url": "http://kenyalaw.org/kl/index.php?id=7310",
-      "selector_hint": "Section 2 - Interpretation",
+      "upstream_url": "https://new.kenyalaw.org/akn/ke/act/2015/17/",
+      "selector_hint": "section#part_I__sec_2",
       "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
       "expected_snippet": "company"
     },
     {
       "id": "ke-hash-006",
-      "description": "Kenya Information and Communications Act (Cap 411A), Section 2 — interpretation and definitions for telecommunications and ICT regulation",
-      "upstream_url": "http://kenyalaw.org/kl/index.php?id=882",
-      "selector_hint": "Section 2 - Interpretation",
+      "description": "Kenya Information and Communications Act, Section 2 — interpretation and definitions for telecommunications and ICT regulation",
+      "upstream_url": "https://new.kenyalaw.org/akn/ke/act/1998/2/",
+      "selector_hint": "section with heading 'Interpretation'",
       "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
       "expected_snippet": "communication"
     }
