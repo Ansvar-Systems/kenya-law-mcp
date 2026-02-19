@@ -1,0 +1,63 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Kenya Law MCP"
+jurisdiction: "KE"
+
+sources:
+  - name: "Kenya Law (National Council for Law Reporting)"
+    authority: "National Council for Law Reporting (Kenya Law)"
+    official_portal: "http://kenyalaw.org"
+    canonical_identifier: "N/A (Kenya legislation identified by Act title + year; no standardized URI scheme)"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "http://kenyalaw.org/kl/index.php?id=702 (limited API endpoints available for some datasets)"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "http://kenyalaw.org/kl/index.php?id=702"
+      summary: "Kenya Law provides free public access to legislation; government legislation is public domain under Kenyan law; the National Council for Law Reporting is mandated to publish all laws of Kenya"
+    coverage:
+      scope: "All Acts of Parliament (revised edition), subsidiary legislation, Legal Notices, Bills, the Constitution of Kenya (2010), Kenya Gazette notices, and selected case law from superior courts including Supreme Court, Court of Appeal, and High Court"
+      limitations: "Historical legislation repealed before digitisation may be incomplete; county legislation is not comprehensively covered; some subsidiary legislation may lag behind gazette publication; case law coverage varies by court level"
+    languages:
+      - "en"
+      - "sw"
+
+  - name: "Kenya Gazette"
+    authority: "Government Printer, Republic of Kenya"
+    official_portal: "http://kenyalaw.org/kenya_gazette/"
+    canonical_identifier: "N/A (gazette notices identified by volume, number, and date)"
+    retrieval_method: "PDF"
+    api_documentation: "N/A"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Publication"
+      url: "http://kenyalaw.org/kenya_gazette/"
+      summary: "Official government gazette; legal notices, statutory instruments, and government appointments published weekly; public domain as government publication"
+    coverage:
+      scope: "Kenya Gazette and Kenya Gazette Supplement including Legal Notices, Acts supplements, Bills supplements, and special issues"
+      limitations: "PDF format requires OCR/parsing for structured data extraction; historical gazettes before digitisation may be incomplete; supplements may be published separately from main gazette"
+    languages:
+      - "en"
+      - "sw"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - Kenya Law (kenyalaw.org) is the official publication platform operated by the
+#   National Council for Law Reporting, established under the National Council for
+#   Law Reporting Act (Cap 3A, Laws of Kenya)
+# - The Constitution of Kenya (2010) is the supreme law; all legislation must conform to it
+# - Kenya's Data Protection Act 2019 established the Office of the Data Protection
+#   Commissioner (ODPC) as the supervisory authority, modeled significantly on the EU GDPR
+# - The Computer Misuse and Cybercrimes Act 2018 was partially suspended by the High Court
+#   (Sections 22, 23, 24, 27, and 53 were suspended pending constitutional review)
+# - Kenya uses a common law legal system inherited from British colonial administration
+# - The legal language is English (official), with Swahili (national) used in some
+#   government documents and gazette notices
+# - Kenya Law has a reasonably structured web interface; some JSON/API endpoints exist
+#   for specific datasets but coverage is inconsistent
