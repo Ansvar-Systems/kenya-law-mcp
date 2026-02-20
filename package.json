@@ -32,12 +32,16 @@
   },
   "files": [
     "dist/",
-    "data/database-free.db",
+    "data/database.db",
+    "server.json",
     "sources.yml",
     "fixtures/",
     "LICENSE",
     "README.md"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc",
     "test": "vitest run",
