@@ -123,6 +123,29 @@ Once connected, just ask naturally:
 
 ---
 
+## Key Legislation Covered
+
+| Act | Year | Significance |
+|-----|------|-------------|
+| **Data Protection Act** | 2019 | Comprehensive data protection law modeled on EU GDPR; established the Office of the Data Protection Commissioner (ODPC) |
+| **Computer Misuse and Cybercrimes Act** | 2018 | Comprehensive cybercrime legislation (note: Sections 22, 23, 24, 27, and 53 were partially suspended by the High Court pending constitutional review) |
+| **Kenya Information and Communications Act** | 1998 (amended) | Regulates telecommunications and ICT sector; establishes the Communications Authority of Kenya |
+| **Companies Act** | 2015 | Modern company law framework replacing the Companies Act (Cap 486) |
+| **Consumer Protection Act** | 2012 | Consumer rights and fair trade practices |
+| **Access to Information Act** | 2016 | Right to access government-held information |
+| **National Payment Systems Act** | 2011 | Regulation of payment systems including mobile money (M-Pesa) |
+| **Constitution of Kenya** | 2010 | Supreme law; Article 31 guarantees the right to privacy |
+
+---
+
+## Deployment Tier
+
+**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+
+**Estimated database size:** ~80-150 MB (full corpus of Kenyan federal legislation)
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
